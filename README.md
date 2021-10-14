@@ -2,6 +2,7 @@
 <!DOCTYPE html>
 <html>
 <head>
+ 
 
 <style>
 
@@ -10,7 +11,7 @@
 <body>
 
 <p><h1><b>Assignment-2.</b></h1></p>
-
+<h1><b>The Non-Compatibles.</b></h1>
 
 
 <p><b><h2>Personal imformation</h2></b></p>
