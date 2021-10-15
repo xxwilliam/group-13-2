@@ -105,6 +105,7 @@ According to an article written by Gemma Chilton, Natural Language Processing is
 
 <p>How will this impact me?. It would greatly impact my life as I love driving my car, feeling the engine and being in control and not relying on a machine to do the driving. I don't think I could trust a computer no matter how good it is, for some of the reasons I have mentioned, corrupted software, hackers. I like to be in control of my life, but in saying that if they were to come on the market in a few years time I wouldn't have to teach my daughter how to drive. I have taught my wife and 3 sons to drive and all got their licence on the 1st try. So in reality it won’t have a big impact on my life at this point in time, but it might for my grandchildren and their children. Another big impact would be getting my deliveries on time, and as for an impact on my friends well i don't have any so no worry there and my family well my kids love driving as much as i do, And my son works at a tire place so it might have an impact on his life. Also having Autonomous vehicles would make us (human’s) a bit more lazy like in the movie (wally) where very thing was Automated.</p>
 
+<p><h2>Bibliography</h2></p>
 <p><b>links https://en.wikipedia.org/wiki/Self-driving_car</b></p>
 
 <p><b>Taeihagh, Araz; Lim, Hazel Si Min (2 January 2019). "Governing autonomous vehicles: emerging responses for safety, liability, privacy, cybersecurity, and industry risks". Transport Reviews. 39 (1): 103–128. arXiv:1807.05720.</b></p>
