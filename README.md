@@ -40,7 +40,7 @@ The Tesla-bot, or another similar product, could also remove then need for House
 <p>The potential time that I could gain by having a robot like the Tesla-Bot would allow me to make massive changes in my life. By eliminating the time needed to perform household chores such as cooking, cleaning and grocery shopping, I would have more time to focus on myself and my family. It would allow me to have more time to focus on my studies, and by extension set up the rest of my life/career. If I had more time to spend on studies, I could have my degree finished quicker as well as get a job in the industry a lot quicker than my current plans would allow. This could practically shave years off of my current life plan and allow me to live a better life quicker than would otherwise.</p>
 
 <p><h2><b>Bibliography:</b></h2></p>
-<p><b>Encyclopedia Britannica. 2021. robot | Definition, History, Uses, Types, & Facts. [online] Available at: [Accessed 9 October 2021].</b>>/p>
+<p><b>Encyclopedia Britannica. 2021. robot | Definition, History, Uses, Types, & Facts. [online] Available at: [Accessed 9 October 2021</b>p>
 
 <p><b>Boston Dynamics. 2021. Atlas. [online] Available at: [Accessed 9 October 2021]. The Conversation. 2021. Elon Musk’s Tesla Bot raises serious concerns – but probably not the ones you think. [online] Available at: [Accessed 9 October 2021].</b></p>
 
@@ -64,15 +64,15 @@ NLP is being used for stroke treatment, suicide prevention, safety information i
 According to an article written by Gemma Chilton, Natural Language Processing is bridging the gap between computers and humans – and creating job opportunities for engineers with a knack for language. AI job opportunities are growing by the day, with high-profile players like Google, Facebook, Microsoft and Amazon vying for NLP researchers and engineers to join their companies. Natural Language processing already has a huge impact on our daily lives, mine too. Using personal assisting devices, including Alexa and google home. Email filters that help keep Junk and Spam emails away. Search engines have become so much better over time. I use Predictive a lot while writing formal documents and emails. Language Translation feature has helped a lot while traveling foreign countries or even making new friends. My grandfather lives alone and he uses personal assistance devices that are voice activated and it has made it very easy for him to perform tasks around the house, everything is voice activated including lights, TV, locks, etc. I never knew much about it before researching this topic but now I am looking forward to the future of NLP and how it will affect our daily lives.</p>
 
 <p><h2><b>Bibliography.</b></h2></p>
-<p>Careers with STEM. (2018). What is Natural Language Processing? [online] Available at: https://careerswithstem.com.au/what-is-natural-language-processing / [Accessed 9 Oct. 2021].</p>
+<p>Careers with STEM. (2018). What is Natural Language Processing? [online] Available at:</p> https://careerswithstem.com.au/what-is-natural-language-processing / [Accessed 9 Oct. 2021].
 
-<p>Madhavan, R. (n.d.). Natural Language Processing - Current Applications and Future Possibilities. [online] Emerj. Available at: https://emerj.com/partner-content/nlp-current-applications-and-future-possibilities/.</p>
+<p>Madhavan, R. (n.d.). Natural Language Processing - Current Applications and Future Possibilities. [online] Emerj.</p> Available at: https://emerj.com/partner-content/nlp-current-applications-and-future-possibilities/.
 ‌
-<p>ZappyAI. (n.d.). The Current State of the Art in Natural Language Processing (NLP). [online] Available at: https://zappy.ai/ai-blogs/the-current-state-of-the-art-in-natural-language-processing-nlp.</p>
+<p>ZappyAI. (n.d.). The Current State of the Art in Natural Language Processing (NLP). [online] Available at:</p> https://zappy.ai/ai-blogs/the-current-state-of-the-art-in-natural-language-processing-nlp.
 
-<p>Bajpai, A. (2021). Recurrent Neural Networks: Deep Learning for NLP. [online] Medium. Available at: https://towardsdatascience.com/recurrent-neural-networks-deep-learning-for-nlp-37baa188aef5 [Accessed 9 Oct. 2021].</p>
+<p>Bajpai, A. (2021). Recurrent Neural Networks: Deep Learning for NLP. [online] Medium. Available at:</p> https://towardsdatascience.com/recurrent-neural-networks-deep-learning-for-nlp-37baa188aef5 [Accessed 9 Oct. 2021].
 
-<p>Admin, Q. (2020). Natural Language Processing Explained: How Can it Impact My Business? [online] Quantilus. Available at: https://quantilus.com/natural-language-processing-explained-how-can-it-impact-my-business/ [Accessed 9 Oct. 2021].</p>
+<p>Admin, Q. (2020). Natural Language Processing Explained: How Can it Impact My Business? [online] Quantilus. Available at:</p> https://quantilus.com/natural-language-processing-explained-how-can-it-impact-my-business/ [Accessed 9 Oct. 2021].
 
 
 
@@ -95,11 +95,11 @@ According to an article written by Gemma Chilton, Natural Language Processing is
 
 <p><b>Level 5.</b> (Steering wheel optional), No human intervention needed,sit back and enjoy the ride.</p>
 
-<p><b>Info from en.wikipedia.org/wiki/self-driving_car#technol ogy.com</b></p>
+<p>Info from en.wikipedia.org/wiki/self-driving_car#technol ogy.com</p>
 
 <p>Full Autonomous Vehicles are a long way (decades) from being commercially viable as more technology is needed to ensure the safety of the public. What technology and other development needed to make this possible? More powerful sensors, actuators, complex algorithms, machine learning systems,and processors to execute software. Some safety and security cameras, AI,network infrastructure ,radar and lidar.</p>
 
-What is the likely impact?
+<p>What is the likely impact?</p>
 
 <p>The potential impact would have its pros and cons like any sort of development. The pros would be safer roads,more reliable transport, eg buses, taxis, trains. Cheaper for transport companies,on time deliveries, human’s spending more time with family and friends. The cons would be no transportation jobs truck drivers, taxi drivers and such. It will change how some people live, like re-training for other jobs like in the computer industry.IT. It will also help some people who have a disability, or people who have a fear of driving, less road rage incidents and traffic accidents. Potentially less deaths as well. But the loss of jobs may not be limited to the transport industry, Miners,smelt workers, may be affected as well due to the amount of natural resources used to make the vehicles, and even then people may look for artificial material ( man made) to make the vehicles, eg the bodies of the vehicles, copper wire. Even the materials used to make the engines and tires, so more jobs may be lost or replaced. The social impact would not be good for those who are educationally challenged for them toget a job in the transport industry. Autonomous vehicles would have to be secured from hackers, other wise the transport vehicles could be used as land missiles, highly unlikely but it could happen, or the machines could take over. It would also greatly impact motor racing. Maybe.</p>
 
@@ -117,19 +117,19 @@ What is the likely impact?
 
 <p><b>Daily, Mike; Medasani, Swarup; Behringer, Reinhold; Trivedi, Mohan (December 2017). "Self-Driving Cars". Computer. 50 (12): 18–23. doi:10.1109/MC.2017.4451204. ISSN 1558-0814.</b></p>
 
-"Traffic Jam Chauffeur: Autonomous driving in traffic jams". 28 August 2016.
+<p><b>"Traffic Jam Chauffeur: Autonomous driving in traffic jams". 28 August 2016.</b></p>
 
-Wikipedia.
+<p><b>Wikipedia.</b></p>
 
-"How Honda's Level 3 self-driving technology works". Automotive News Europe. 5 March 2021. Retrieved 5 March 2021.
+<p><b>"How Honda's Level 3 self-driving technology works". Automotive News Europe. 5 March 2021. Retrieved 5 March 2021.</b></p>
 
 https://emerj.com/ai-adoption-timelines/self-driving-car-timeline-themselves-top-11-automakers/
 
-The self driving car timeline predictions from the top 11 global automakers.
+<p><b>The self driving car timeline predictions from the top 11 global automakers.</b></p>
 
 https://ihsmarkit.com/research-analysis/artificial-intelligence-driving-autonomous-vehicle-development.html
 
-Artifical intelligence driving autonomous vehicle development
+<p><b>Artifical intelligence driving autonomous vehicle development</b></p>
 
 <p><h2>Cyber Security,</h2></p>
 
@@ -155,13 +155,13 @@ By teaching children cybersecurity basics — including both the why and how —
 
  <p><h2><b>Bibliography</b></h2></p>
         
-<p>CyberSecurity Magazine, Education, Teaching Cybersecurity to Kids, Frankie Wallace</p>
-<p>Gainful Employment Information – Cybersecurity Track - Bachelor's</p>
-<p>IBM topics, Cybersecurity-what is cybersecurity, paragraph 2.</p>  
-<p>jigsawacademy/blogs/cyber-security/impact-of-cyber-security</p>
-<p>Sauvik Acharjee, 19 Feb 2021, Jigsaw Academy.</p>
-<p>Panel of Cyber Security Experts, IT Security Central, cyber security in five years the tops experts speak.</p>
-<p>ENISA and TeleTrust – IT Security Association, paragraph 2&3, published Feb, 7th, 2019.</p>
+<p><b>CyberSecurity Magazine, Education, Teaching Cybersecurity to Kids, Frankie Wallace</b></p>
+<p><b>Gainful Employment Information – Cybersecurity Track - Bachelor's</b></p>
+<p><b>IBM topics, Cybersecurity-what is cybersecurity, paragraph 2.</b></p>  
+<p><b>jigsawacademy/blogs/cyber-security/impact-of-cyber-security</b></p>
+<p><b>Sauvik Acharjee, 19 Feb 2021, Jigsaw Academy.</b></p>
+<p><b>Panel of Cyber Security Experts, IT Security Central, cyber security in five years the tops experts speak.</b></p>
+<p><b>ENISA and TeleTrust – IT Security Association, paragraph 2&3, published Feb, 7th, 2019.</b></p>
 
 
 
