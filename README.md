@@ -164,6 +164,85 @@ By teaching children cybersecurity basics — including both the why and how —
 <p><b>Panel of Cyber Security Experts, IT Security Central, cyber security in five years the tops experts speak.</b></p>
 <p><b>ENISA and TeleTrust – IT Security Association, paragraph 2&3, published Feb, 7th, 2019.</b></p>
 
+<style>
+table, th, td {
+  border:1px solid black;
+  border-collapse: collapse;
+}
+</style>
+
+<body>
+
+<h2><b>Ideal Job</b></h2>
+
+<p>The ideal jobs in our group fall in two Categories: Cyber Security and Tech Support. Samantha Kurlic's ideal job id Desktop Support.</p>
+<p>Alexander ball's ideal job is IT Support. William's ideal job is Cyber Security Analyst, And Mediha Sabahat's is Cyber Froensics Analyst.</p>
+<p>Everyone in our group has a slightly different pathway than the others but there is still some simlarities</p>
+
+
+
+<table style="width:80%">
+  <tr>
+    <th></th>
+    <th>Desktop Support</th> 
+    <th>IT support Officer</th>
+    <th>Cyber Security Specialist</th>
+    <th>Cyber Forensics Specialist</th>
+  </tr>
+  <tr style="height : 140px">
+    <td>Responsibilities</td>
+    <td>Solving basic problems
+        including product features ,return,polices about a product and delivery schedule etc.</td>
+    <td>Resolving concerns of technical Nature including installing software, resolving or fixing hardware malunction</td>
+    <td>Implementing and maintaining a robust information security system and defending from cyber attacks</th>
+    <th>Identying Hacks,understanding the source and recovering the compromised data</th>
+  </tr>
+  <tr>
+    <td>Skills</td>
+    <td>Microsoft Office, ITIL, technical support, Customer Service, Communication Skills</td>
+    <td>Communication, problem solving,Organisational skills, Troubleshooting,Quality Assurence and control</td>
+    <td></td>
+    <td>Knowledge of operating systems and technologies, Java, SQL, Javasrcipt, Python, Firewall, Pearl, PHP, C+, project management</td>
+  </tr>
+  <tr>
+    <td>Craeer Path</td>
+    <td>Desktop Support level 1<h3>  &darr;</h3> Senior Desktop Support</td>
+    <td>IT Support Level 1/2<h3>  &darr;</h3> Network Engineering,Database Administration, Project Manager</td>
+    <td>Cyber Security Specialist<h3>  &darr;</h3>Cyber Security Manager</td>
+    <td>Cyber Forensic Analyst<h3>  &darr;</h3>Cyber Forensics Expert</td>
+  </tr>
+  <tr>
+    <td> Experience needed</td>
+    <td> 1-3 years</td>
+    <td> 1-3 years</td>
+    <td> 3 years of Relevent Experience</td>
+    <td> 2-3 years</td>
+  <tr>
+  <tr>
+    <td> Qualifications Needed</td>
+    <td> Bachelors in Information Technology or Computer Science and any related Certification or Diploma</td>
+    <td> Bachelors in Information Technology or Diploma of IT, Support technication Certificate</td>
+    <td> Bachelors degree in Computer Science orIT.relevant Diplomas and cretification</td>
+    <td> Bachelors in Information Technology or computer Science, masters in Cyber Forensics, relevant Cretification and Diplomas</td>
+  </tr>
+</table>
+   
+<h3><b>Similarities, Differences and Conclusion:</b></h3>
+ 
+<p>Desktop support and IT support are very similar to each other but also different in a few ways. Both these jobs require advanced Customer Service skills. Other Skills needed and Qualifications needed for these jobs are also almost identical to each other. Desktop support personnel help resolve the basic customer problems regarding any product e.g., shipping status, return policies, they do not help with technical issues, while IT support personnel help with resolving the technical problems of customers e.g., installing software, resolving or fixing hardware malfunctions.</p>
+Cyber security Analyst and Cyber Forensic Analyst both focus on protection of digital assets. The work they both do is very similar but still different in some ways. Cybersecurity is basically about prevention. Cyber Security Analyst prevents the organizations from cyber-attacks, Cyber forensics is about response. If the cyber security fails, a Cyber forensics Analyst can help identify the problems or hacks and help resolve them. Cyber security personnel’s help build the security system and Forensic personnel’s help resolve the issues in the case of a breach.
+Our ideal jobs and Career pathways are very different from each other. Some of us want to start from entry level jobs and progress our career on the way and others intend to complete qualifications needed and then start a career. Skills, Qualifications or responsibilities might differ but eagerness to start a career in IT is the same. 
+<p><b>Sources:</b></p> 
+<p>https://online.champlain.edu/blog/difference-between-cybersecurity-and-computer-forensics.</p>
+<p>https://roicallcentersolutions.com/tech-support/help-desk-vs-technical-support/.</p>
+<p>https://www.proprofsdesk.com/blog/what-is-the-difference-between-help-desk-and-desktop-support/.</p>
+<p>https://www.seek.com.au/career-advice/role/information-technology-support-officer.</p>
+<p>https://www.cyberdegrees.org/jobs/computer-forensics/</p>
+
+
+
+
+
 
 
 </body>
