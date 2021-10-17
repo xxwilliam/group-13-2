@@ -460,7 +460,7 @@ table, th, td {
 <p>Everyone in our group has a slightly different pathway than the others but there is still some simlarities</p>
 
 <head>
- <h1><b>Industry Data</b></h1>
+ <h1><b>Ideal Job</b></h1>
 </head>
 
 <table style="width:80%">
