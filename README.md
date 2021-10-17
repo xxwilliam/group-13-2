@@ -226,7 +226,8 @@ table, th, td {
     <td> Bachelors in Information Technology or computer Science, masters in Cyber Forensics, relevant Cretification and Diplomas</td>
   </tr>
 </table>
-   
+</body>
+
 <h3><b>Similarities, Differences and Conclusion:</b></h3>
  
 <p>Desktop support and IT support are very similar to each other but also different in a few ways. Both these jobs require advanced Customer Service skills. Other Skills needed and Qualifications needed for these jobs are also almost identical to each other. Desktop support personnel help resolve the basic customer problems regarding any product e.g., shipping status, return policies, they do not help with technical issues, while IT support personnel help with resolving the technical problems of customers e.g., installing software, resolving or fixing hardware malfunctions.</p>
@@ -243,7 +244,7 @@ Our ideal jobs and Career pathways are very different from each other. Some of u
 <head>
  <h1><b>Industry Data</b></h1>
 </head>
-<body>
+</body>
  
 <h1>Group Job Titles:</h1>
 
@@ -387,6 +388,7 @@ We have a wide range of skills set in our group and it covers most of the top sk
 
 <html>
 <head>
+<body>
 <p><b><h1>IT Work.</h1></b></p>
  
 
