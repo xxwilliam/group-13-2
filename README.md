@@ -251,10 +251,10 @@ Our ideal jobs and Career pathways are very different from each other. Some of u
 <p>All four people in our group have different interests and different career paths. The job titles for our group’s ideal jobs are as following.</p>
 
 <ul>
-· <li>        Cyber Security Specialist <b>(William Hansen).</b></il>
-· <li>        Cyber Forensics Specialist <b>(Madiha Sabahat).</b></il>
-· <li>        IT Support Officer <b>(Alexander Ball).</b></il>
-· <li>       Desktop Support <b>(Samantha Kurilic).</b></il>
+· <li>        Cyber Security Specialist <b>(William Hansen).</b></li>
+· <li>        Cyber Forensics Specialist <b>(Madiha Sabahat).</b></li>
+· <li>        IT Support Officer <b>(Alexander Ball).</b></li>
+· <li>       Desktop Support <b>(Samantha Kurilic).</b></li>
 </ul>
  
 <p>In our group Cyber Security specialist is the top ranked job in demand from employers. According to this blog <b>( https://blog.y-axis.com/which-occupations-are-in-demand-in-australia-in-2021/)</b> ICT security specialists rank 20 overall in Australia in demand from employers this year. In the past few years we have seen and heard about numerous global cyber-attacks, credit card thefts, and sensitive information leaked. These incidents have sparked an interest among organizations in hiring more ICT security specialists, so that they could protect their organizations from cyber-attacks.
