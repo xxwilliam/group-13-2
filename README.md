@@ -182,7 +182,10 @@ table, th, td {
 
 <html>
 <head>
+<body> 
  <h1><b>Industry Data</b></h1>
+<h2> :&hearts;
+ </h2>
 </head>
 
 <table style="width:80%">
