@@ -180,13 +180,7 @@ table, th, td {
 <p>Alexander ball's ideal job is IT Support. William's ideal job is Cyber Security Analyst, And Mediha Sabahat's is Cyber Froensics Analyst.</p>
 <p>Everyone in our group has a slightly different pathway than the others but there is still some simlarities</p>
 
-<html>
-<head>
-<body> 
- <h1><b>Industry Data</b></h1>
-<h2> :&hearts;
- </h2>
-</head>
+
 
 <table style="width:80%">
   <tr>
