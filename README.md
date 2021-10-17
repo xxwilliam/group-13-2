@@ -459,7 +459,9 @@ table, th, td {
 <p>Alexander ball's ideal job is IT Support. William's ideal job is Cyber Security Analyst, And Mediha Sabahat's is Cyber Froensics Analyst.</p>
 <p>Everyone in our group has a slightly different pathway than the others but there is still some simlarities</p>
 
-
+<head>
+ <h1><b>Industry Data</b></h1>
+</head>
 
 <table style="width:80%">
   <tr>
@@ -521,10 +523,8 @@ Our ideal jobs and Career pathways are very different from each other. Some of u
 <p>https://www.seek.com.au/career-advice/role/information-technology-support-officer.</p>
 <p>https://www.cyberdegrees.org/jobs/computer-forensics/</p>
 
-<html>
-<head>
- <h1><b>Industry Data</b></h1>
-</head>
+
+
 
 
 </body>
