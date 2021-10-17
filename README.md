@@ -171,7 +171,7 @@ table, th, td {
 }
 </style>
 
-<body>
+
 
 <h2><b>Ideal Job</b></h2>
 
@@ -226,7 +226,7 @@ table, th, td {
     <td> Bachelors in Information Technology or computer Science, masters in Cyber Forensics, relevant Cretification and Diplomas</td>
   </tr>
 </table>
-</body>
+
 
 <h3><b>Similarities, Differences and Conclusion:</b></h3>
  
@@ -244,7 +244,7 @@ Our ideal jobs and Career pathways are very different from each other. Some of u
 <head>
  <h1><b>Industry Data</b></h1>
 </head>
-</body>
+
  
 <h1>Group Job Titles:</h1>
 
@@ -388,7 +388,7 @@ We have a wide range of skills set in our group and it covers most of the top sk
 
 <html>
 <head>
-<body>
+
 <p><b><h1>IT Work.</h1></b></p>
  
 
