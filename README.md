@@ -175,6 +175,7 @@ table, th, td {
 
 <h2><b>Ideal Job</b></h2>
 
+
 <p>The ideal jobs in our group fall in two Categories: Cyber Security and Tech Support. Samantha Kurlic's ideal job id Desktop Support.</p>
 <p>Alexander ball's ideal job is IT Support. William's ideal job is Cyber Security Analyst, And Mediha Sabahat's is Cyber Froensics Analyst.</p>
 <p>Everyone in our group has a slightly different pathway than the others but there is still some simlarities</p>
