@@ -180,54 +180,81 @@ table, th, td {
 <p>Alexander ball's ideal job is IT Support. William's ideal job is Cyber Security Analyst, And Mediha Sabahat's is Cyber Froensics Analyst.</p>
 <p>Everyone in our group has a slightly different pathway than the others but there is still some simlarities</p>
 
+<style>
+table, th, td {
+  border:1px solid black;
+}
+</style>
 
+<body>
 
-<table style="width:80%">
-  <tr>
+<table style="width:125%">
+
+<style>
+.center {
+  margin: auto;
+  width: 60%;
+  
+}
+</style>
+
+<tr>
     <th></th>
-    <th>Desktop Support</th> 
+    <th>Desktop support</th> 
     <th>IT support Officer</th>
     <th>Cyber Security Specialist</th>
     <th>Cyber Forensics Specialist</th>
-  </tr>
-  <tr style="height : 140px">
-  </style> 
+</tr>
+  <tr style="height:100px">
     <td>Responsibilities</td>
-    <td>Solving basic problems
-        including product features ,return,polices about a product and delivery schedule etc.</td>
-    <td>Resolving concerns of technical Nature including installing software, resolving or fixing hardware malunction</td>
-    <td>Implementing and maintaining a robust information security system and defending from cyber attacks</th>
-    <th>Identying Hacks,understanding the source and recovering the compromised data</th>
-  </tr>
-  <tr>
+    <td>Solving basic problems including product features, return policies about a product and delivery schedule atc.</td>
+    <td>Resolving concerns of a Technical Nature including installing software, resolving or fixing hardware malfunction </td>
+    <td>Implementing and maintaining a robust information security system and defending from cyber attacks</td>
+   <td>Identifing hacks,understanding the source and recovering the compromised data</td>
+</tr>
+  <tr style="height:100px">
     <td>Skills</td>
-    <td>Microsoft Office, ITIL, technical support, Customer Service, Communication Skills</td>
-    <td>Communication, problem solving,Organisational skills, Troubleshooting,Quality Assurence and control</td>
+    <td>Mircosoft Office, ITIL, technical suppot, Customer Service, Communication Skills</td>
+    <td>Communication, Problem solving, Organisational skills,trouble shooting, quality assurance and control</td>
     <td></td>
-    <td>Knowledge of operating systems and technologies, Java, SQL, Javasrcipt, Python, Firewall, Pearl, PHP, C+, project management</td>
+    <td>knowledge of operating systems and technolgies, Java, Javascript SQL, Python, Firewall, Pearl, PHP, C+, project management</td>
+</tr>
+  <tr style="height:100px">
+    <td>Career Path</td>
+   <td><div class="center"><p>desktop Support level Senior </p><div class="center">
+  <p><p style="font-size:160%;">&#8595;</p>
+</div>
+<p>Desktop Support</p></td>
+    <td><div class="center"><p>IT Support Level 1/2</p><div class="center">
+  <p><p style="font-size:160%;">&#8595;</p>
+</div>
+<p>Network Engineering, Database Administration, project manager.</p></td>
+    <td><div class="center"><p>Cyber Security Specialist </p><div class="center">
+  <p><p style="font-size:160%;">&#8595;</p>
+</div>
+<p>Cyber Security manager</p></td>
+    <td><div class="center"><p>Cyber Forensic Analyst </p><div class="center">
+  <p><p style="font-size:160%;">&#8595;</p>
+</div>
+Cyber Forensics Expert</td>
   </tr>
-  <tr>
-    <td>Craeer Path</td>
-    <td>Desktop Support level 1<h3>  &darr;</h3> Senior Desktop Support</td>
-    <td>IT Support Level 1/2<h3>  &darr;</h3> Network Engineering,Database Administration, Project Manager</td>
-    <td>Cyber Security Specialist<h3>  &darr;</h3>Cyber Security Manager</td>
-    <td>Cyber Forensic Analyst<h3>  &darr;</h3>Cyber Forensics Expert</td>
+    <tr style="height:50px">
+   <td><p>Experience Needed</p></td>
+   <td><p>1-3 Years</p></td>
+   <td><p>1-3 Years</p></td>
+   <td><p>3 Years of relevant Experience</p></td>
+   <td><p>2-3 Years</p></td>
   </tr>
-  <tr>
-    <td> Experience needed</td>
-    <td> 1-3 years</td>
-    <td> 1-3 years</td>
-    <td> 3 years of Relevent Experience</td>
-    <td> 2-3 years</td>
-  <tr>
-  <tr>
-    <td> Qualifications Needed</td>
-    <td> Bachelors in Information Technology or Computer Science and any related Certification or Diploma</td>
-    <td> Bachelors in Information Technology or Diploma of IT, Support technication Certificate</td>
-    <td> Bachelors degree in Computer Science orIT.relevant Diplomas and cretification</td>
-    <td> Bachelors in Information Technology or computer Science, masters in Cyber Forensics, relevant Cretification and Diplomas</td>
+    <tr style="height:150px">
+   <td>Qualifications Needed</td>
+    <td>Bachelors in Information Technology or Computer Science and any related Certification or Diploma</td>
+     <td>Bachelors of Information technology or diploma of IT, Support Technician Certificate</td>
+     <td>Bachelors Degree in Computer Science or IT,relevant Diplomas and Cretification,</td>
+    <td>Bachelors in Information Technology or Computer Science,masters in Cyber Forensics, relevant certification and diplomas</td>
   </tr>
 </table>
+
+
 
 
 <h3><b>Similarities, Differences and Conclusion:</b></h3>
