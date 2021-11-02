@@ -221,19 +221,19 @@ table, th, td {
 </tr>
   <tr style="height:100px">
     <td>Career Path</td>
-   <td><div class="center"><p>desktop Support level Senior </p><div class="center">
+   <td><div class="center"><p>desktop Support level Senior> </p><div class="center">
   <p><p style="font-size:160%;">&#8595;</p>
 </div>
 <p>Desktop Support</p></td>
-    <td><div class="center"><p>IT Support Level 1/2</p><div class="center">
+    <td><div class="center"><p>IT Support Level 1/2></p><div class="center">
   <p><p style="font-size:160%;">&#8595;</p>
 </div>
 <p>Network Engineering, Database Administration, project manager.</p></td>
-    <td><div class="center"><p>Cyber Security Specialist </p><div class="center">
+    <td><div class="center"><p>Cyber Security Specialist ></p><div class="center">
   <p><p style="font-size:160%;">&#8595;</p>
 </div>
 <p>Cyber Security manager</p></td>
-    <td><div class="center"><p>Cyber Forensic Analyst </p><div class="center">
+    <td><div class="center"><p>Cyber Forensic Analyst> </p><div class="center">
   <p><p style="font-size:160%;">&#8595;</p>
 </div>
 Cyber Forensics Expert</td>
