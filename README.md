@@ -101,10 +101,18 @@ a {
 
 <p><b><a href="https://github.com/xxwilliam/group-13-#ideal-job" target="_blank">Click this link</a></b></p>
 
-  
- 
- 
+ <head>
+ <style>
+a {
+  color: Red;
+}
+</style>
+</head>
+<body>
 
+<h2>Link to Group Job Titles</h2>
+
+<p><b><a href="https://github.com/xxwilliam/group-13-#group job titles" target="_blank">Click this link</a></b></p>
 
 
  
