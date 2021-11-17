@@ -55,7 +55,7 @@ a {
 
 <h2>Link to Natural language Processing nlp and chatterbots</h2>
 
-<p><b><a href="https://github.com/xxwilliam/group-13-#natural-language-processing-nlp-and-chatterbots" target="_blank">Click this link</a></b></p>
+<p><b><a href="https://xxwilliam.github.io/Natural-language-processing-nlp-and-chatterbots/" target="_blank">Click this link</a></b></p>
 
  
 
