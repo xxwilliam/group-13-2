@@ -28,8 +28,7 @@
 
  
  
-<p><h2><b>Robotics:</b></h2></p>
-<p>By Alex Ball</p>
+
 <head>
  <style>
 a {
