@@ -44,7 +44,18 @@ a {
 
 
 <p><h2>Natural Language processing (NLP) and chatterbots.</b></h2></p>
+ <head>
+ <style>
+a {
+  color: Red;
+}
+</style>
+</head>
+<body>
 
+<h2>Link to Natural language Processing nlp and chatterbots</h2>
+
+<p><b><a href="https://github.com/xxwilliam/group-13-#natural-language-processing-nlp-and-chatterbots" target="_blank">Click this link</a></b></p>
 <p><b>Natural language Processing and Chatterbots by Madiha Sabahat.</b></p>
 
 <p>Natural Language Processing is a branch of Artificial intelligence that gives computers the ability to understand spoken words the same way human beings can. It includes translation software, chatbots, spam filters, and search engines, grammar correction software, Predictive text, voice assistants, and social media monitoring tools. According to an article written in<b> “ZAPPY.AI”</b> talking about the current state of art in NLP, the author states that, By analysing text, computers infer how humans speak, and this computerized understanding of human languages can be exploited for numerous use-cases. Applications of NLP include sentiment analysis- where an NLP model can predict the kind of sentiment that a piece of text it operates upon expresses, virtual chat-bots- which are robots that interact with humans via text, having the ability to understand and provide logical responses to text messages sent by humans, speech recognition - technology commonly used in speech-to-text converters, now commonplace in mobile phones and video streaming websites, and several others.</p>
