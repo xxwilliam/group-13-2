@@ -85,7 +85,7 @@ a {
 
 <h2>Link to Cyber Security</h2>
 
-<p><b><a href="https://github.com/xxwilliam/group-13-#cyber-security" target="_blank">Click this link</a></b></p>
+<p><b><a href="https://xxwilliam.github.io/Cyber-Security/" target="_blank">Click this link</a></b></p>
  
 
 <head>
