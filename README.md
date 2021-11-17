@@ -58,8 +58,7 @@ a {
 <p><b><a href="https://github.com/xxwilliam/group-13-#natural-language-processing-nlp-and-chatterbots" target="_blank">Click this link</a></b></p>
 
  
-<p><h2>Autonomous Vehicles.</h2></p>
-<p><b>Autonomous Vehicles by William Hansen.</b></p>
+
 <head>
  <style>
 a {
@@ -73,40 +72,21 @@ a {
 
 <p><b><a href="https://github.com/xxwilliam/group-13-#Autonomous-Vehicles" target="_blank">Click this link</a></b></p>
  
+
  
+<head>
+ <style>
+a {
+  color: Red;
+}
+</style>
+</head>
+<body>
 
+<h2>Link to Cyber Security</h2>
 
-<p><h2>Cyber Security,</h2></p>
-
-<p><b>Cyber Security by Samantha Kurilic.</b></p>
-
-<p>What is Cyber Security and what does it do? Cyber security is a practice known for protecting sensitive information and important critical systems, from digital attacks. A cyber attack can be detrimental to individuals and organisations computers and networks, why? It is an assault by cybercriminals using one or more computers. A cyber-attack can steal data, disable computers, or use a compromised computer or other devices as a launchpad for other attacks maliciously.   
-In society, computers and devices such as Ipad’s, tablets, and smartphones are everyday devices that individuals use every day. This can start from internet banking, connecting with family and friends, online shopping, creating accounts with usernames and passwords and so much more.</p>
-<p> Questions you would ask yourself is, are these usernames and passwords the same as your banking and online shopping with saved credit cards to keep consistency? How scary to think that if you chose generic login details and you had a security threat and you were hacked. In this instance, this proves it is super important to protect yourself from security threats.   
-Important things to think about and to ensure you remain safe from cyber attackers, is to follow basic cyber security practices. Such as keeping your software up-to-date, install software patches, delete expired browser certificates and allow browsers to force HTTPS. Other protectors such as using a VPN, anti-malware, ensure you check emails before opening and secure online accounts.</p>
-<p.What is Cyber security? Cyber security is a collection of processes, practices, technologies and security tools and it is used to protect software, devices, applications and more, inside and outside organisations. IBM topics, Cybersecurity-what is cybersecurity, paragraph 2.</p>
-<p>The state of the art in cyber security is aimed to protect against security threats to ensure confidentiality, integrity and other private information remains secure and how amazing this invention is. The boundaries of the field of cybersecurity are constantly and rapidly evolving and it can be challenging to identify which areas have been researched and which ones remain overlooked or poorly understood.
-As quoted by RAND <b>“The identified gaps include: a lack of research into cybersecurity within the national security context; the governance of cybersecurity; ethics and legal concerns; and a number of emerging topics such as the dark web, Internet of Things, artificial intelligence, cryptocurrencies and quantum-related technologies."</b> RAND Europe is unique and able to find evidence-based solutions to policy challenges in today's fast-changing times.
-<b>“Daily reports on security incidents in companies and authorities show that there is an urgent need for action to improve IT security."</b></p><p> Article 32 of the GDPR regulates <b>"security of processing"</b> to ensure that, taking into account the state of the art, the costs of implementation and the nature, scope, context and purposes of processing as well as the risk of varying likelihood and severity for the rights and freedoms of natural persons. ENISA and TeleTrust – IT Security Association, paragraph 2&3, published Feb, 7th, 2019.
-A panel of Cyber Security Experts shared their views on what is next in Cyber Security via ‘IT Security Central, sponsored by Teramind. The following insight was from Stefan Maerz who is a cyber security engineer for Titan and Summit, two of the world’s fastest supercomputers at Oak Ridge National Laboratory. Stephen Maerz says <b>“Cyber security in 5 years,"</b> will not be all that different than it is today, to be honest — every year the Verizon data breach report comes out and it more or less tells us the same thing. We need to build security as a fundamental component of our technology architecture.. There is no easy button in security.</p><p> The state of the industry hasn’t evolved much in the past 5 years — I don’t foresee a reason it will change tremendously in the next 5”. Panel of Cyber Security Experts, IT Security Central, cyber security in five years the top experts speak.
-What is the potential impact of this development? Cyber Security is definitely an area that needs more attention but unfortunately, it is given the least, it is a vast field of discussion in the IT sector and such a delicate area.<b> "Sauvik Acharjee says “</b> the lack of awareness and deprivation of knowledge about cybersecurity creates a more favourable situation for hackers. The first few words that pop up mostly in people’s minds after hearing the word <b>‘cyber security’</b> are about cyber-attacks by hackers on various international security forces and financial banks or theft of personal details of a company through bug attack.</p><p> Sauvik Acharjee, 19 Feb 2021, Jigsaw Academy.
-Talking about the impact of cyber security on business, as reported by Jigsaw, “the first thing that came to mind, are two famous ransomware WannaCry and Not Petya which uses Eternal Blue exploit tool to damage 300,000 windows machines leaving victims to pay $300 to $600 as Ransom amount with an estimated data loss worth 19 million euros, according to the department of health and social care. Not Petya strike of 2017 created more hue and cry among the people leaving its impact of cyber security on society by hitting numerous large organizations throughout the world. A few of them were Maersk and FedEx whose data have been shared publicly showing a loss to that organization worth $250-$300 million. In 2015, a notable ransomware TeslaCrypt encrypted various file extensions linking to various online games leaving impact Minecraft hacks as encrypted for customers”.jigsawacademy/blogs/cyber-security/impact-of-cyber-security
-According to IBM, It has been recorded in the US that the average data breach cost was 3.86 million globally and 8.6 million in the United States these costs are broken down into discovering and responding to the breach itself. This includes long-term reputation damage, the cost of the downtime that is involved and loss of revenue for the business and the brand itself. IBM topics, Cybersecurity-what is cybersecurity, paragraph 2.</P>      	
-<p>Ecpi University has shared its views on how Cybercriminals affect and target individuals and not just large companies and organisations. <b>“While a CEO can afford a dedicated cybersecurity team," the average person is on their own when it comes to securing their computers and devices. That leaves millions of potential targets vulnerable to cyberattacks, which can range from the sort of data theft and ransomware that is used to target organizations to more personal attacks that aim simply to cause chaos and distress”.</b> Gainful Employment Information – Cybersecurity Track - Bachelor's
-Being attacked by Cyber-attacks can be a real risk for me and my family, we rely on our smartphones to conduct all our banking, online shopping and my children watching their favourite content and setting up generic accounts to access all these streams. These attacks are real and the potential risk for me is no different than the next person, the only difference is, it depends on what security programs I access and how I manage my accounts with passwords, using VPN and removing previous browsing history.
-This is a great insight on how cyber security can affect my family <b>“Although kids have an advantage in their almost innate grasp of the concepts of technology,"</b> they’re still kids. Their naivete puts them at a disadvantage when it comes to security in general and particularly on the internet. What’s worse, they often use the internet in secret. Some of the more shocking statistics show that 86% of girls aged 12-17 say they can chat online without their parents’ knowledge. Additionally, 57% say they can get into their parents’ email, which helps them circumvent parental controls.
-By teaching children cybersecurity basics — including both the why and how — adults can prepare them for the risks they face and what to do when they encounter them. Plus, kids who grow up with a strong foundation in these practices can even begin to fill the cybersecurity skills shortage and help keep everyone safe”. CyberSecurity Magazine, Education, Teaching Cybersecurity to Kids, Frankie Wallace</p>
-
-
- <p><h2><b>Bibliography</b></h2></p>
-        
-<p><b>CyberSecurity Magazine, Education, Teaching Cybersecurity to Kids, Frankie Wallace</b></p>
-<p><b>Gainful Employment Information – Cybersecurity Track - Bachelor's</b></p>
-<p><b>IBM topics, Cybersecurity-what is cybersecurity, paragraph 2.</b></p>  
-<p><b>jigsawacademy/blogs/cyber-security/impact-of-cyber-security</b></p>
-<p><b>Sauvik Acharjee, 19 Feb 2021, Jigsaw Academy.</b></p>
-<p><b>Panel of Cyber Security Experts, IT Security Central, cyber security in five years the tops experts speak.</b></p>
-<p><b>ENISA and TeleTrust – IT Security Association, paragraph 2&3, published Feb, 7th, 2019.</b></p>
+<p><b><a href="https://github.com/xxwilliam/group-13-#cyber-security" target="_blank">Click this link</a></b></p>
+ 
 
 <style>
 table, th, td {
