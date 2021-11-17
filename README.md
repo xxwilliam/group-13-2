@@ -29,6 +29,19 @@
  
  
 <p><h2><b>Robotics:</b></h2></p>
+
+<head>
+ <style>
+a {
+  color: Red;
+}
+</style>
+</head>
+<body>
+
+<h2>Link to Robotics</h2>
+
+<p><b><a href="https://github.com/xxwilliam/group-13-#robotics" target="_blank">click this link</a></b></p>
 <p><b>Robotics by Alex Ball.</b></p>
 
 <p>A Robot, as defined by Britannica, is <b>“any automatically operated machine that replaces human effort, though it may not resemble human beings in appearance or perform functions in a humanlike manner”,</b>(robot | Definition, History, Uses, Types, & Facts, 2021). In this day and age this could describe many different things in our society, from household appliances like automatic coffee machines, to automatic assembly lines in car construction plant. All of these items are classified as <b>“Robots”</b> as they can perform tasks without human interaction. However, when someone is talking about a robot, most people would think of science-fiction characters such as R2-D2 and Optimus Prime instead of the items listed above that actually exist now, However the reality of having robots walking around and prevalent in our society isn’t as far away as you would think.</p><p> The <b>“AtlasTM“</b> by Boston Dynamics is one such Robot that is starting to reach the technology level that has up until recently only been seen in Science-Fiction.
