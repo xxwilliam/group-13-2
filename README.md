@@ -30,29 +30,22 @@
  
 <p><h2><b>Robotics:</b></h2></p>
 <p>By Alex Ball</p>
+<head>
+ <style>
+a {
+  color: Red;
+}
+</style>
+</head>
+<body>
 
+<h2>Link to Robotics</h2>
 
-
-<p>A Robot, as defined by Britannica, is <b>“any automatically operated machine that replaces human effort, though it may not resemble human beings in appearance or perform functions in a humanlike manner”,</b>(robot | Definition, History, Uses, Types, & Facts, 2021). In this day and age this could describe many different things in our society, from household appliances like automatic coffee machines, to automatic assembly lines in car construction plant. All of these items are classified as <b>“Robots”</b> as they can perform tasks without human interaction. However, when someone is talking about a robot, most people would think of science-fiction characters such as R2-D2 and Optimus Prime instead of the items listed above that actually exist now, However the reality of having robots walking around and prevalent in our society isn’t as far away as you would think.</p><p> The <b>“AtlasTM“</b> by Boston Dynamics is one such Robot that is starting to reach the technology level that has up until recently only been seen in Science-Fiction.
-
-The Atlas robot is able to run, jump, dance and perform moves such as backflips. The aim of the Atlas project is to push the bounds of robotics forward, and as such they have one of the most humanlike robots in existence. It is 1.5m tall and weighs approximately 90kg (Atlas, 2021). The team at Boston Dynamics have so far programmed the Atlas robot to do activities such as Dance, perform basic parkour and traverse obstacle courses. As such it is currently one of the most <b>“humanlike”</b> robots that exists today. At the other end of the spectrum are the robots that have been deployed in the automotive manufacturing industry since the 1960’s.</p><p> The original iteration of these robots was only originally used for spot welding, but their use has since grown massively. They are still used for welding, but they can now also move materials around and install them on the vehicle, paint and seal and cut away excess material. These robots are now a mainstay in the manufacturing industry and are crucial to the industries continued development.
-
-Looking forward however, the future of the robotics field looks like it will be closing the gap between science and science-fiction.Recently Tesla announced plans to create its own <b>“Humanoid Robot”</b> (Elon Musk’s Tesla Bot raises serious concerns – but probably not the ones you think, 2021). This robot’s concept plans show that it looks very similar to a human.</p><p> The aim of the<b> “Tesla-Bot”</b> is to essentially be a robotic butler. When it was announced Elon Musk claimed that the Tesla-Bot could perform many varied manual labour tasks. This product could massively change how we live our lives. With this robot in every household, it would eliminate the need to go grocery shopping and even the task of cooking dinner. Not all of the impacts of this technology is good, it has the potential to limit the need for certain jobs and services. One such service that could be the food delivery service, this service has had a recent upturn in usage from the Covid-19 pandemic, but it could potentially be threatened by the development of this new technology.
-
-The Tesla-bot, or another similar product, could also remove then need for Housekeepers/Nannies as it could have the technology needed to upkeep an entire household without the need to have someone employed in the role. While this technology has some obvious downsides in regards to potential job losses, it also has some other less obvious benefits. This technology could allow parents/partners to spend more time with their families as opposed to spending that time on domestic chores. It could also be of advantage to people that are time-poor and don’t have the time to ensure that they eat healthily. The robot could ensure that they have a healthy home cooked meal ready for them when they return home from work that could improve their health massively if they normally have to rely on Fast Food/Takeout due to time constraints. The people that would most likely be affected by this development in the technology are end users as they would be in the best position to benefit from the use of this product.If this product were to become a reality in the near future, I believe that it could have a massive impact on my life.</p>
-
-<p>The potential time that I could gain by having a robot like the Tesla-Bot would allow me to make massive changes in my life. By eliminating the time needed to perform household chores such as cooking, cleaning and grocery shopping, I would have more time to focus on myself and my family. It would allow me to have more time to focus on my studies, and by extension set up the rest of my life/career. If I had more time to spend on studies, I could have my degree finished quicker as well as get a job in the industry a lot quicker than my current plans would allow. This could practically shave years off of my current life plan and allow me to live a better life quicker than would otherwise.</p>
-
-<p><h2><b>Bibliography:</b></h2></p>
-<p><b>Encyclopedia Britannica. 2021. robot | Definition, History, Uses, Types, & Facts. [online] Available at: [Accessed 9 October 2021</b>p>
-
-<p><b>Boston Dynamics. 2021. Atlas. [online] Available at: [Accessed 9 October 2021]. The Conversation. 2021. Elon Musk’s Tesla Bot raises serious concerns – but probably not the ones you think. [online] Available at: [Accessed 9 October 2021].</b></p>
-
-<p><b>taff, R., 2021. 7 Key Robot Applications in Automotive Manufacturing. [online] Robotics Business Review. Available at: [Accessed 9 October 2021].</b></p>
-
+<p><b><a href="https://github.com/xxwilliam/group-13-#robotics" target="_blank">click this link</a></b></p>
 
 
 <p><h2>Natural Language processing (NLP) and chatterbots.</b></h2></p>
+
 <p><b>Natural language Processing and Chatterbots by Madiha Sabahat.</b></p>
 
 <p>Natural Language Processing is a branch of Artificial intelligence that gives computers the ability to understand spoken words the same way human beings can. It includes translation software, chatbots, spam filters, and search engines, grammar correction software, Predictive text, voice assistants, and social media monitoring tools. According to an article written in<b> “ZAPPY.AI”</b> talking about the current state of art in NLP, the author states that, By analysing text, computers infer how humans speak, and this computerized understanding of human languages can be exploited for numerous use-cases. Applications of NLP include sentiment analysis- where an NLP model can predict the kind of sentiment that a piece of text it operates upon expresses, virtual chat-bots- which are robots that interact with humans via text, having the ability to understand and provide logical responses to text messages sent by humans, speech recognition - technology commonly used in speech-to-text converters, now commonplace in mobile phones and video streaming websites, and several others.</p>
