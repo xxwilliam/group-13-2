@@ -26,6 +26,8 @@
 
 <p>My name is <b>William (Troy) Hansen,</b> 50 years old, Married. Former Chef, bakes professional Birthday Cakes. No formal background in Information technology, Interest in Cyber Security. He talked about personal experience that sparked his interest in Information Technology.I studied to be a chef in 1990 at Rockhampton T.A.F.E. After that i came back to Brisbane, and tried to find work as an apprentice chef, No luck, So i went to work with my Dad as a House Painter, We did that for a few years, That was Dad's profession,I then got a job at Warehouse that deals in Stainless Steel. Then I got into Security Did that for about 15 years on and off. Then my wife and I were diagnosed with depression and anxiety. I had to give up on security to look after my wife. Personality type Defender, Traits: Introvert 80%, observant 62%, feeling 74%, judging 64%. Learning style test: Visual 60%, Preferred learning style Visual.</p>
 
+ 
+ 
 <p><h2><b>Robotics:</b></h2></p>
 <p><b>Robotics by Alex Ball.</b></p>
 
