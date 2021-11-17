@@ -40,7 +40,7 @@ a {
 
 <h2>Link to Robotics</h2>
 
-<p><b><a href="https://github.com/xxwilliam/Robotics#robotics" target="_blank">click this link</a></b></p>
+<p><b><a href="https://xxwilliam.github.io/Robotics/" target="_blank">click this link</a></b></p>
 
 
 
