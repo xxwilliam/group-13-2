@@ -99,7 +99,7 @@ a {
 
 <h2>Link to Ideal Job</h2>
 
-<p><b><a href="https://github.com/xxwilliam/group-13-#ideal-job" target="_blank">Click this link</a></b></p>
+<p><b><a href="https://xxwilliam.github.io/Ideal-Job/" target="_blank">Click this link</a></b></p>
 
  <head>
  <style>
