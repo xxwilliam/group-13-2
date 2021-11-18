@@ -4,13 +4,11 @@
 <head>
  
 
-
-
-
 </head>
 <body>
 
-<p><h1><b>Assignment-2.</b></h1></p>
+<p><h1><b>Assignment-3.</b></h1></p>
+ 
 <h1><b>The Non-Compatibles.</b></h1>
 
 
@@ -27,6 +25,32 @@
 <p>My name is <b>William (Troy) Hansen,</b> 50 years old, Married. Former Chef, bakes professional Birthday Cakes. No formal background in Information technology, Interest in Cyber Security. He talked about personal experience that sparked his interest in Information Technology.I studied to be a chef in 1990 at Rockhampton T.A.F.E. After that i came back to Brisbane, and tried to find work as an apprentice chef, No luck, So i went to work with my Dad as a House Painter, We did that for a few years, That was Dad's profession,I then got a job at Warehouse that deals in Stainless Steel. Then I got into Security Did that for about 15 years on and off. Then my wife and I were diagnosed with depression and anxiety. I had to give up on security to look after my wife. Personality type Defender, Traits: Introvert 80%, observant 62%, feeling 74%, judging 64%. Learning style test: Visual 60%, Preferred learning style Visual.</p>
 
  
+<p><b><h2>Group processes</h2></b></p>
+ 
+ <p>How well did your group work together in Assignment 2? Will you be introducing
+ any changes in process for Assignment 3? This is new for this assignment.</p> 
+
+
+ <p>Our group worked really well on Assignment two, we all contributed in a positive way 
+ and worked very hard on each delegated task. We really helped each other out, offering
+ advice and support for any queries we faced.</p> 
+
+ <p>Assignment Two really gave us an opportunity to get to know each other's IT experience,
+ including how big or little experience we had. There was a minor confusion with some of
+ the assignments, but we overcame that, with hard work and help from each other.</p> 
+
+ <p>Alex Ball, Samantha Kurilic and Madiha Sabahat were very professional in the information
+ they gathered for the Assignment, and William Hansen was really good at gathering all
+ the work and putting it together on GitHub with his limited IT experience. As for this
+ Assignment three, not many changes have been identified apart from using one google 
+ doc to gather all our work in one place, to create an easier transition when submitting 
+ the overall assignment. We have also identified we need to meet more frequently with
+ deadlines for allocated tasks. Everyone is well aware of their allocated task and with
+ more knowledge and practice we are working even better as a team and using all the
+ resources we can obtain. We are pretty confident that we will knock this Assignment
+ out of the park</p>
+
+
  
 
 
