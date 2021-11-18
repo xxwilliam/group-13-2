@@ -125,12 +125,37 @@ a {
 <p><b><a href="https://github.com/xxwilliam/group-13-2 " target="_blank">click this link for Github</a></b></p>
 
 
+<p><b><h2>Topic</h2></b></p>
+
+ <p> Our project was based on refereeing and officiating Basketball matches, but we have decided to expand to (eventually) all ball sports, i.e soccer, cricket, Afl, rugby league, and more. This is a personal development system, as most information is word of mouth or a course you can do that just covers the basics. The web site/ app can be used for such things as official roasters, review from coaches, game stats, accreditation tests.</p>
+
+ <p>Also Our project will help officials and referees with on hand rules and by-laws of the games. With a section on game schedules , video highlights of games, leaderboard of teams, and more when fully developed. But more so it will be a learning tool for new and a refresher for referees and officials to get up to date rules and bylaws. All this can be accessed on either laptop or mobile device.</p>
+
+ <p>We think this will be an asset to any sporting club or organization, with drop down menus with easy access to what they're looking for. It will be done in a professional manner with clear side menus</p>
+
+
+<p><b><h2>Motivation</h2></b></p>
+ 
+<p>Alex: The Motivation behind this project is two pronged. The original idea came from Alex’s desire to have a platform for Basketball referees to have Scheduling, Education and development services all in one place. This combined with Sam’s original idea to have a platform to assist with the education of people with learning sign language molded this project into what it has become, which is a platform that aims to include all sports and offers scheduling, education, individualised feedback and more. The goal is to have one platform for any official of anysport to come to to further their education and development in their chosen sport.,/p> 
+
+<p>This project fits into some current IT trends. It is being developed as a web based platform/application as essentially a learning platform. The aim of the project is to assist people in their personal and professional development as well as giving them tools to assist them. Working on this project would show a future employer that the potential prospect has the skills to work together with a wide variety of people as well as has a wide range of skills that allowed them to help build and market this product.</p> 
+
+
+<p><b><h2>Landscape</h2></b.</p>
 
 
 
 
+ <P>There are a few similar products/systems available, but not in Australia. There’s 1 in the UK that does all kinds of sports, which is what we are thinking of doing eventually. Our product will be more user friendly than the others. And have on hand sporting referees and officials to answer any queries regarding, rules and laws of the game. Our product will have Coaching reviews, training manuals for new referees, Referees and officials work rosters, Areas for officials to report on games, Ability to create custom forums, Game scheduling, Weather reports if games are played outside, Game reviews and stats on players, Maps of where venues are, and much more. Our product will be an ongoing development to ensure we stay ahead of any competitors. With dedicated staff and officials, and up to date with the latest software and security. With technicians on call 24/7 for any tech problems. We may also in the future include a learning algorithm to help with training, coaching and refereeing.</p>
 
 
+<p><b><h2>Aims</h2></b></p>
+
+<p>The overall aim of this project is to provide sports officials with an online platform where they can have game scheduling, education, feedback and resources all in one user-friendly location. We have started this project because we believe that there is a niche in the market for a platform such as this and that through creating this we would be able to help better and develop the various sports officials around the country, and potentially the world.<p>
+
+<p>While this is our main overall aim, we have a few smaller goals, or checkpoints that we will need to achieve and prioritise along the way. The first goal is to get the main user interface up and running. This will include the home page and all of the different sub-pages that will be used to make up the website. The next step is to get the scheduling system up and running. The reason this is so important is because this is the main feature that is going to keep the users coming back consistently and we have to make sure that this is working well before we start to implement other features of the platform. The next main goal is to get the educational portion of the platform up and running. This is next because this will be the highest workload area of the development as it will include researching different rules and compiling educational materials as well as potentially collaborating with educators to develop our own learning material. Finally after that is complete, or at least progressing well, we would move onto implementing all of our other desired features.</p> 
+
+<p>If we had to choose only one of these above goals to complete due to time constraints or other constraints, it would be the educational aspect of the platform. This is because the educational aspect is what sets this platform apart from other game scheduling platforms, otherwise we would just be creating another platform that would be competing directly with other existing products.</p>
 
 
 
