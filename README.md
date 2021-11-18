@@ -47,7 +47,7 @@ a {
  <head>
  <style>
 a {
-  color: Red;
+  color: Blue;
 }
 </style>
 </head>
@@ -62,7 +62,7 @@ a {
 <head>
  <style>
 a {
-  color: Red;
+  color: Purple;
 }
 </style>
 </head>
@@ -70,14 +70,14 @@ a {
 
 <h2>Link to Autonmous Vehicles</h2>
 
-<p><b><a href="https://github.com/xxwilliam/group-13-#Autonomous-Vehicles" target="_blank">Click this link</a></b></p>
+<p><b><a href="https://xxwilliam.github.io/Autonomous-Vehicles/" target="_blank">Click this link</a></b></p>
  
 
  
 <head>
  <style>
 a {
-  color: Red;
+  color: Yellow;
 }
 </style>
 </head>
