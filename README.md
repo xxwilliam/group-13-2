@@ -115,150 +115,22 @@ a {
 <p><b><a href="https://xxwilliam.github.io/Group-Job-titles/" target="_blank">Click this link</a></b></p>
 
 
- 
-<h1>Group Job Titles:</h1>
-
-<p>All four people in our group have different interests and different career paths. The job titles for our group’s ideal jobs are as following.</p>
-
-<ul>
-· <li>        Cyber Security Specialist <b>(William Hansen).</b></li>
-· <li>        Cyber Forensics Specialist <b>(Madiha Sabahat).</b></li>
-· <li>        IT Support Officer <b>(Alexander Ball).</b></li>
-· <li>        Desktop Support <b>(Samantha Kurilic).</b></li>
-</ul>
- 
-<p>In our group Cyber Security specialist is the top ranked job in demand from employers. According to this blog <b>( https://blog.y-axis.com/which-occupations-are-in-demand-in-australia-in-2021/)</b> ICT security specialists rank 20 overall in Australia in demand from employers this year. In the past few years we have seen and heard about numerous global cyber-attacks, credit card thefts, and sensitive information leaked. These incidents have sparked an interest among organizations in hiring more ICT security specialists, so that they could protect their organizations from cyber-attacks.
-IT support Officers are always in demand as well. Different organizations and industries including public administration, information technology, insurance, finance and retail trade hire them. IT Support Officers are always in demand but in current times the demand for this job has increased even more because they are crucial for business. According to an article published in technojobs.co.uk, IT support officers ranked number 2 in demand from employers in 2020. <b>(https://www.technojobs.co.uk/info/career-advice/10-most-in-demand-it-jobs-for-2020.phtml).</b>
-Desktop support ranks 3rd in our group’s jobs ranking in demand from employers but the demand for Desktop support technicians is anticipated to increase by 10% in the coming years and this is more than any other occupation. In the past two years during the pandemic Desk Help was the second fastest growing job according to an article published by Joseph Tsidulko in CRN.
-Cyber Security jobs are very in demand, that includes Cyber forensics Specialist as well. According to a study done by ECU Cyber Forensics ranked 10th in Cyber security jobs. This job has more to do with Criminal law and Forensics Science. Jobs in cyber security are projected to be stronger in coming years, the demand of cyber forensic professionals have also gradually increased but it still ranks lower than other jobs in our group.</p>
- 
-<h1>Group’s required skill set:</h1>
-
-<p>Ideal jobs in our group are very different from each other and require a wide skill set. Most of the skills needed are different but the basics are still the same.  There are two types of skills. One is IT specific and the other is General skills.
-IT specific skill set:</p>
-
-<ul>
-- <li>         SQL.</li>
-
-  <li>         JavaScript.</li>
-
-  <li>         JAVA.</li>
-
-  <li>         Microsoft Windows.</li>
-
-  <li>         Project Management.</li>
-
-  <li>         SAP.</li>
-
-  <li>         C+.</li>
-
-  <li>         Customer service.</li>
-
-  <li>         Software engineering.</li>
-
-  <li>         Microsoft Office.</li>
-
-  <li>         Oracle.</li>
-
-  <li>         ITIL.</li>
-
-  <li>         Git.</li>
-
-  <li>         Python.</li>
-
-  <li>         Business Process.</li>
-
-  <li>         SIEM management.</li>
-
-  <li>         Audit and compliance.</li>
-
-  <li>         Firewall/IDS/IPS skills.</li>
-
-  <li>         Bash.</li>
-
-  <li>         Pearl></li>
-
-  <li>         PHP.</li>
-
-  <li>         Technical support.</li>
-</ul>
-
-<p>These skills are ranked in order, in terms of demand from employers. SQL being the highest ranking skill. Source: Labour Insight Jobs (Burning Glass Technologies) Skills in Greatest Demand (Specialised Skills)
-General skill set:</p>
-
-<ul>
-  <li>         Communication skills.</li>
-
-  <li>         Problem solving.</li>
-
-  <li>         Organizational skills.</li>
-
-  <li>         Writing.</li>
-
-  <li>         Teamwork/Collaboration.</li>
-
-  <li>         Troubleshooting.</li>
-
-  <li>         Planning.</li>
-
-  <li>         Leadership.</li>
-
-  <li>         Meeting deadlines.</li>
-
-  <li>         Time management.</li>
-
-  <li>         Analytical skills.</li>
-
-  <li>         Decision making.</li>
-
-  <li>         Critical thinking.</li>
-
-  <li>         Understanding of law.</li>
-
- <li>          Quality assurance and control.</li>
-</ul>
-
-
-<p>These skills are also ranked in order, in terms of demand from employers, communication skill being the highest.</p>
-
-
-<p>As mentioned earlier, our ideal jobs are very different from each other that’s why it requires a wide range of skill sets. Some of these are higher in demand from employers.  Source: Labour Insight Jobs (Burning Glass Technologies) Skills in Greatest Demand (Specialised Skills)
-We have a wide range of skills set in our group and it covers most of the top skills in demand but three top skills that are not in our skill set are as following,</p>
-
-<p><b>IT skill set:</b> Business management, Business Analytics, graphic design.</p>
-<p><b>General skill set:</b> Mentoring, Presentation, Multi-tasking.</p>
-<p><b>Opinion on Ideal Jobs:</b></p>
-
-
-<p>For<b> William Hansen,</b> his opinion on his ideal job (Cyber security specialist) has changed for a few reasons. First because of his age, he thinks that after looking at the data he realized that it will take a lot of time to complete a number of qualifications to get this job and secondly, it’s a difficult industry and hard to get a job at any age.</p>
-
-
-<p><b>Alexander Ball’s</b> Opinion about his ideal job (IT support Officer) has not changed because he enjoys working in customer facing roles and he is eager to learn more skills. He thinks that his ideal job might change over the coming years but for now this is the best start.</p>
-
-
-<p>Burning glass data has definitely changed <b>Samantha Kurilic’s</b> perspective on the greater need for her ideal job (Desktop support). Looking at this data, it has encouraged her to add more skills that are in demand to her experience and she believes it will give her greater opportunity for future positions and it will broaden the employment search and demand for her.</p>
-
-
-<p><b>Madiha Sabahat’s</b> opinion has changed about the skills needed for the job. It's a constant learning field. Apart from having a degree a lot of skills are required, which need specific certificates to be completed. She thinks that before researching or looking at Burning glass data she didn’t realize the amount of IT specific skills or general skills required. It has motivated her to work hard to acquire the skills needed for her ideal job.</p>
- 
-<p><b>Sources:</b></p>
-
-<p><b>https://specopssoft.com/blog/most-desired-skills-qualifications-for-cyber-security-jobs-2020/.</b></p>
-
-
-<p><b>https://cipher.com/blog/the-must-have-skill-sets-certifications-for-cyber-security-careers/.</b></p>
-
-
-<p><b>https://cybersecurityguide.org/careers/digital-forensics/.</b></p>
-
-
-<p>Labour Insight Jobs <b>(Burning Glass Technologies)</B. Skills in Greatest Demand <b>(Specialised Skills).</b></p>
-<p>The Balance Careers List of Important Technical Skills With Examples <b>(thebalancecareers.com).</b></p>
-
 
 
 <p><b><h1>IT Work.</h1></b></p>
- 
+ <head>
+ <style>
+a {
+  color: Red;
+}
+</style>
+</head>
+<body>
+
+<h2>Link to IT Work</h2>
+
+<p><b><a href="https://xxwilliam.github.io/IT-Work/" target="_blank">Click this link</a></b></p>
+
 
 <p>Bryce Honey from With You With Me <b>(WYWM)</b> was kind enough to give us time out of his busy schedule to allow us to Interview him as a part of our research into the work done by IT workers within the industry. Bryce described his role as that of a General Technologist, however that name doesn’t give him credit for all of the other functions or <b>“Hats”</b> that he has as a part of his role. Bryce is currently a Squad Leader within WYWM and is currently in charge of a small <b>“squad”</b> of people. This squad is currently assigned to a project that involves upgrading the Networking equipment, including switches, routers and firewall packet shapers, for the Royal Australian Navy (RAN). As the <b>“Squad Leader”</b> Bryce is in charge of managing a significant amount of the project. As well as managing some of the overall aspects of the project he is also assisting with the actual configuration of some of the new equipment as well as doing the install of said equipment.
 Bryce’s “Squad Members'' aren't the only people that he interacts with as a part of his role. Bryce has to liaise with a number of other people that are involved within this project. This current project that he and his squad is working on is contracted through IBM, as such he has to liaise with the Project Co-Ordinator of IBM. He does so on a daily basis as it is Bryce’s job to organise the delivery of most materials that will be needed for this upgrade. He also has to work with another person at IBM who is their Delivery Coordinator. He also has to work with Engineers from the RAN as the end customer to ensure that all of the Ships and Buildings will be available at the appropriate times as well that all of the environmental factors, such as heat and ventilation, are accounted for before installation begins. Finally Bryce also interacts with the CEO, CFO and CTO of WYWM on a daily basis as he is in-charge of the project; he has to report back to them on the state of the project among other things, such as sticking to budget and schedules. Overall Bryce interacts with a significant amount of other people as a part of his job including, Co-workers, subordinates, contract clients, end users as well as his own employers.</p>
