@@ -75,9 +75,9 @@ a {
 </head>
 <body>
 
-<h2>Link to Natural language Processing nlp and chatterbots</h2>
 
-<p><b><a href="https://xxwilliam.github.io/Natural-language-processing-nlp-and-chatterbots/" target="_blank">Click this link</a></b></p>
+
+<p><b><a href="https://xxwilliam.github.io/Natural-language-processing-nlp-and-chatterbots/" target="_blank">Click this link for Natrual language processing nlp and chatterbots</a></b></p>
 
  
 
@@ -90,9 +90,9 @@ a {
 </head>
 <body>
 
-<h2>Link to Autonmous Vehicles</h2>
 
-<p><b><a href="https://xxwilliam.github.io/Autonomous-Vehicles/" target="_blank">Click this link</a></b></p>
+
+<p><b><a href="https://xxwilliam.github.io/Autonomous-Vehicles/" target="_blank">Click this link for Autonomous Vehicles</a></b></p>
  
 
  
@@ -105,9 +105,9 @@ a {
 </head>
 <body>
 
-<h2>Link to Cyber Security</h2>
 
-<p><b><a href="https://xxwilliam.github.io/Cyber-Security/" target="_blank">Click this link</a></b></p>
+
+<p><b><a href="https://xxwilliam.github.io/Cyber-Security/" target="_blank">Click this link for Cyber Security</a></b></p>
  
 
 <head>
@@ -119,9 +119,9 @@ a {
 </head>
 <body>
 
-<h2>Link to Ideal Job</h2>
 
-<p><b><a href="https://xxwilliam.github.io/Ideal-Job/" target="_blank">Click this link</a></b></p>
+
+<p><b><a href="https://xxwilliam.github.io/Ideal-Job/" target="_blank">Click this link for Ideal Jobs</a></b></p>
 
  <head>
  <style>
@@ -132,14 +132,14 @@ a {
 </head>
 <body>
 
-<h2>Link to Group Job Titles</h2>
-
-<p><b><a href="https://xxwilliam.github.io/Group-Job-titles/" target="_blank">Click this link</a></b></p>
 
 
+<p><b><a href="https://xxwilliam.github.io/Group-Job-titles/" target="_blank">Click this link for Group Job Titles</a></b></p>
 
 
-<p><b><h2>IT Work.</h2></b></p>
+
+
+
  <head>
  <style>
 a {
@@ -149,13 +149,13 @@ a {
 </head>
 <body>
 
-<h2>Link to IT Work</h2>
-
-<p><b><a href="https://xxwilliam.github.io/IT-Work/" target="_blank">Click this link</a></b></p>
 
 
+<p><b><a href="https://xxwilliam.github.io/IT-Work/" target="_blank">Click this link for IT Work</a></b></p>
 
- <p><b><h2>Group Reflection.</h2></b></p>
+
+
+ 
   <head>
  <style>
 a {
@@ -165,9 +165,9 @@ a {
 </head>
 <body>
 
- <p><b><h2>Link to Group Reflection</h2></b></p>
+ 
 
-<p><b><a href="https://xxwilliam.github.io/IT-Work/" target="_blank">Click this link</a></b></p>
+<p><b><a href="https://xxwilliam.github.io/IT-Work/" target="_blank">Click this link for Group Reflection</a></b></p>
 
 
 
