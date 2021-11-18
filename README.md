@@ -143,7 +143,7 @@ a {
 </head>
 <body>
 
-<h2>Link to IT Work</h2>
+<h2>Link to Group Reflection</h2>
 
 <p><b><a href="https://xxwilliam.github.io/IT-Work/" target="_blank">Click this link</a></b></p>
 
