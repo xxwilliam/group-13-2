@@ -112,7 +112,7 @@ a {
 
 <h2>Link to Group Job Titles</h2>
 
-<p><b><a href="https://github.com/xxwilliam/group-13-#group job titles" target="_blank">Click this link</a></b></p>
+<p><b><a href="https://xxwilliam.github.io/Group-Job-titles/" target="_blank">Click this link</a></b></p>
 
 
  
