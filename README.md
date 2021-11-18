@@ -49,7 +49,52 @@
  out of the park</p>
 
 
- 
+ <p><B><h2>Career plans</h2></b></p>
+  
+<p>Compare and contrast the career plans, including ideal jobs,
+ for each person in the group. This may have changed due to 
+feedback from Assignments 1 and 2. What common elements are there,
+if any? What differentiates each position from the others, 
+if anything? How similar or different are your career plans 
+across the group? This is new for this assignment.</p>
+
+<p><b><h2>Alexander Ball</h2></b></p>
+
+<p>My Career plan is dependent on a few outside factors. My primary
+plan is to continue studying and to begin applying for 
+entry-level jobs. I have recently applied and had the first 2
+interviews for an entry-level traineeship that I was to get
+would change my entire plan. If I were to get this role I would 
+be able to put my online study on the back burner for now and 
+learn everything I needed for the role while on the job. I would
+also be mentored and coached through further studies as a part
+of the role. If I don’t get the position I would continue along 
+with what I am currently doing which is studying through RMIT 
+and OUA part-time as well as applying for entry-level service
+desk roles, which is where I believe I would be able to 
+develop and learn the most while not having much experience.
+I would then like to progress into a Network 
+Analyst/Administrator Role. I find networks and servers very 
+interesting and would like to experience and learn more about 
+that field. After that, I would like to do some project 
+management and run bigger projects once I have the skills and 
+knowledge required.</p>
+
+
+<p><b><h2>Samantha Kurilic</h2></b></p>
+
+<p>My career plan continues to be focused on IT desktop support, 
+and cyber security. My short term plan is to continue studying 
+with RMIT to be given more scope and develop my knowledge and 
+skills. After completing Assignment Two, Industry Data, this has
+ opened up my thought process and encouraged me to delve deeper 
+and seek what is a highly sought role to think about. I have 
+always had a keen interest in website development and programming
+ also, so this is definitely something I will need to develop
+ with ongoing studying. The end goal I see myself working as an
+ entrepreneur offering my skills and services remotely, this will
+ offer the ability to work flexibly and anywhere.</p> 
+
 
 
 
