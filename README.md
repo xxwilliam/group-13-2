@@ -49,7 +49,7 @@ As a part of Assignment 3 I believe that we could have at the very least the bas
 The home page is the biggest part of the platform that we would have completed as a part of Assignment 3. The main feature of the home page would be the calendar/roster function. We would have a calendar view on the home page that would show the officials what upcoming games they have as well as if they have any allocated games that they need to accept/decline. As well as the calendar we would have a notification function that would have alerts for any feedback that had been given to them or if they had any required tests/accreditation due. We will also set up a menu function from this home page to allow the user to move through the platform to its other resources. This home page will be able to show everything of the most importance to the official with a simple glance.
 We believe that we would be able to get close to a usable product with the skills that we currently already possess and with some continued learning and persistence we will be able to create a professional looking product.</p>
 
- <p><b>Links from Assignment 2.</b></p>
+ <p><b><h2>Links from Assignment 2.</h2></b></p>
  
 <head>
  <style>
@@ -139,7 +139,7 @@ a {
 
 
 
-<p><b><h1>IT Work.</h1></b></p>
+<p><b><h2>IT Work.</h2></b></p>
  <head>
  <style>
 a {
@@ -155,7 +155,7 @@ a {
 
 
 
- <h1>Group Reflection.</h1>
+ <p><b><h2>Group Reflection.</h2></b></p>
   <head>
  <style>
 a {
@@ -165,7 +165,7 @@ a {
 </head>
 <body>
 
-<h2>Link to Group Reflection</h2>
+ <p><b><h2>Link to Group Reflection</h2></b></p>
 
 <p><b><a href="https://xxwilliam.github.io/IT-Work/" target="_blank">Click this link</a></b></p>
 
