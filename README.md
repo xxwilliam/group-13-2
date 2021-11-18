@@ -60,7 +60,7 @@ a {
 </head>
 <body>
 
-<h2>Link to Robotics</h2>
+
 
 <p><b><a href="https://xxwilliam.github.io/Robotics/" target="_blank">click this link for Robotics</a></b></p>
 
