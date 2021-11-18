@@ -51,49 +51,51 @@
 
  <p><B><h2>Career plans</h2></b></p>
   
-<p>Compare and contrast the career plans, including ideal jobs,
- for each person in the group. This may have changed due to 
-feedback from Assignments 1 and 2. What common elements are there,
-if any? What differentiates each position from the others, 
-if anything? How similar or different are your career plans 
-across the group? This is new for this assignment.</p>
+<p>Compare and contrast the career plans, including ideal jobs,for each person in the group. This may have changed due to 
+feedback from Assignments 1 and 2. What common elements are there,if any? What differentiates each position from the others, 
+if anything? How similar or different are your career plans across the group? This is new for this assignment.</p>
+
 
 <p><b><h2>Alexander Ball</h2></b></p>
 
-<p>My Career plan is dependent on a few outside factors. My primary
-plan is to continue studying and to begin applying for 
-entry-level jobs. I have recently applied and had the first 2
-interviews for an entry-level traineeship that I was to get
-would change my entire plan. If I were to get this role I would 
-be able to put my online study on the back burner for now and 
-learn everything I needed for the role while on the job. I would
-also be mentored and coached through further studies as a part
-of the role. If I don’t get the position I would continue along 
-with what I am currently doing which is studying through RMIT 
-and OUA part-time as well as applying for entry-level service
-desk roles, which is where I believe I would be able to 
-develop and learn the most while not having much experience.
-I would then like to progress into a Network 
-Analyst/Administrator Role. I find networks and servers very 
-interesting and would like to experience and learn more about 
-that field. After that, I would like to do some project 
-management and run bigger projects once I have the skills and 
-knowledge required.</p>
+<p>My Career plan is dependent on a few outside factors. My primary plan is to continue studying and to begin applying for
+entry-level jobs. I have recently applied and had the first 2 interviews for an entry-level traineeship that I was to get
+would change my entire plan. If I were to get this role I would be able to put my online study on the back burner for now and 
+learn everything I needed for the role while on the job. I would also be mentored and coached through further studies as a part also be mentored and coached through further studies as a part of the role. If I don’t get the position I would continue along with what I am currently doing which is studying through RMIT and OUA part-time as well as applying for entry-level 1 
+service desk roles, which is where I believe I would be able to develop and learn the most while not having much experience. 
+I would then like to progress into a Network Analyst/Administrator Role. I find networks and servers very interesting and would like to experience and learn more about that field. After that, I would like to do some project management and run bigger projects once I have the skills and  knowledge required.</p>
 
 
 <p><b><h2>Samantha Kurilic</h2></b></p>
 
-<p>My career plan continues to be focused on IT desktop support, 
-and cyber security. My short term plan is to continue studying 
-with RMIT to be given more scope and develop my knowledge and 
-skills. After completing Assignment Two, Industry Data, this has
- opened up my thought process and encouraged me to delve deeper 
-and seek what is a highly sought role to think about. I have 
-always had a keen interest in website development and programming
- also, so this is definitely something I will need to develop
- with ongoing studying. The end goal I see myself working as an
- entrepreneur offering my skills and services remotely, this will
- offer the ability to work flexibly and anywhere.</p> 
+<p>My career plan continues to be focused on IT desktop support, and cyber security. My short term plan is to continue studying with RMIT to be given more scope and develop my knowledge and kills. After completing Assignment Two, Industry Data, this has opened up my thought process and encouraged me to delve deeper and seek what is a highly sought role to think about. I have always had a keen interest in website development and programming also, so this is definitely something I will need to develop with ongoing studying. The end goal I see myself working as an entrepreneur offering my skills and services remotely, this will offer the ability to work flexibly and anywhere.</p> 
+
+ 
+<p><b><h2>William Hansen</h2></b></p>
+ 
+<p>My Career plans have changed form Assignment 1 and 2. 
+It is still with Security but in regards with Domestic Violence Victims. I want to learn how to develop an App to help all
+Domestic Violence Victims. The App would have things like GPS tracking, a panic button that would send out an alert to an 
+organization or the police. To send help asap, too many people have been hurt or have passed away from Domestic Violence and 
+this App would help and Women and Men. This App could be used to help other types of Violence like rape or abduction. It could also be a piece of jewellery, with a tiny button on it. This is very different from my 1st and 2nd Assignments ideal job or Career plans I had.</p> 
+ 
+
+<p><b><h2>Madiha Sabahat</h2></b></p>
+
+<p>My Career plans have changed a little bit after  assignment 1 and 2. I had very little knowledge of IT and how can I progress  my career in this field. I am currently studying through OUA and RMIT part time. After completing my current subject  I have enrolled in “Introduction to Programming” , then I plan to pursue Bachelors in Information  Technology to 
+start my career. I also want to start working in IT from a beginner level job along with my studies to gain experience 
+in the field. I also want to achieve a few certifications and specializations in different aspects of IT to sharpen 
+my skills and increase my knowledge. Somewhere down the lane I would like to pursue a masters degree in Cyber Forensics
+and make it my permanent career</p>. 
+
+  
+
+
+
+
+
+
+
 
 
 
