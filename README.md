@@ -100,7 +100,7 @@ and make it my permanent career</p>.
 <head>
  <style>
 a {
-  color: Red;
+  color: Green;
 }
 </style>
 </head>
@@ -114,7 +114,7 @@ a {
 <head>
  <style>
 a {
-  color: Red;
+  color: green;
 }
 </style>
 </head>
@@ -158,7 +158,7 @@ We believe that we would be able to get close to a usable product with the skill
 <head>
  <style>
 a {
-  color: Red;
+  color: Green;
 }
 </style>
 </head>
@@ -173,7 +173,7 @@ a {
  <head>
  <style>
 a {
-  color: Blue;
+  color: Green;
 }
 </style>
 </head>
@@ -188,7 +188,7 @@ a {
 <head>
  <style>
 a {
-  color: Purple;
+  color: Green;
 }
 </style>
 </head>
@@ -203,7 +203,7 @@ a {
 <head>
  <style>
 a {
-  color: Yellow;
+  color: Green;
 }
 </style>
 </head>
@@ -217,7 +217,7 @@ a {
 <head>
  <style>
 a {
-  color: Red;
+  color: Green;
 }
 </style>
 </head>
@@ -230,7 +230,7 @@ a {
  <head>
  <style>
 a {
-  color: Red;
+  color: Green;
 }
 </style>
 </head>
@@ -247,7 +247,7 @@ a {
  <head>
  <style>
 a {
-  color: Blue;
+  color: Green;
 }
 </style>
 </head>
@@ -263,7 +263,7 @@ a {
   <head>
  <style>
 a {
-  color: Blue;
+  color: Green;
 }
 </style>
 </head>
