@@ -167,7 +167,7 @@ a {
 
  
 
-<p><b><a href="https://https://xxwilliam.github.io/Group-Reflection/" target="_blank">Click this link for Group Reflection</a></b></p>
+<p><b><a href="https://xxwilliam.github.io/Group-Reflection/" target="_blank">Click this link for Group Reflection</a></b></p>
 
 
 
