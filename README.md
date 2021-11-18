@@ -98,12 +98,12 @@ and make it my permanent career</p>.
 
 <p><b><h2>TOOLS</h2></b></p>
 
-<p>Link to group website
-https://github.com/xxwilliam/group-13-2 </p>
+<p>Link to group website</p>
+<p>https://github.com/xxwilliam/group-13-2 </p>
 
 
-<p>Link to groups GIT repository (GitHub) 
-https://github.com/xxwilliam/group-13-2 </p>
+<p>Link to groups GIT repository (GitHub)</p> 
+<p>https://github.com/xxwilliam/group-13-2 </p>
 
 
 
