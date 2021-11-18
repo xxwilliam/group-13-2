@@ -108,7 +108,7 @@ a {
 
 
 
-<p><b><a href="https://github.com/xxwilliam/group-13-2" target="_blank">click this link for Website</a></b></p>
+<p><b><a href="https://xxwilliam.github.io/group-13-2/" target="_blank">click this link for group Website</a></b></p>
 
 
 <head>
