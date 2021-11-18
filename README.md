@@ -35,7 +35,7 @@
 <h1><p>Project Idea.</p></h1>
 
 
-<p><b>Project Idea:</b></p>
+ <p><b><h2>Project Idea:</h2></b></p>
 
 <p>For our project idea we have decided to go with Alex’s idea of an online Referee Platform. Alex’s original idea was to have it based at just Basketball Referees, but we have decided to produce it as a platform for Referees and Officials from all Sports.  Alex is heavily involved in Refereeing and teaching others to referee Basketball. He realised that there is currently no type of personal development system. Most of the current education is based around the passing of verbally learned knowledge to new officials and the gaining of experience on the court, as well as the very occasional theory session. We believe that there is an opportunity for a platform to be developed where referees and officials of all sports could go to access all the knowledge and materials needed for them. But this would also be a platform where they can also the officials can access other resources such as Rostering of games, Accreditation Tests, Reviews from Coaches, Reporting Resources and many other Resources that would be of assistance to the development of the officials and their association.</p>
  <p>This sort of project would be unique to our knowledge as there aren’t any platforms where you get all of this in one place. There are multiple platforms out there that offer rostering solutions, but I believe if you were to integrate something like them into a platform where you can also offer education and resources to officials there would be a massive benefit not only to the referees themselves but to the associations that they work at as there would be an increase in the quality of officiating of their games.
