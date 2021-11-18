@@ -28,9 +28,7 @@
 <p><b><h2>Group processes</h2></b></p>
  
  <p>How well did your group work together in Assignment 2? Will you be introducing
- any changes in process for Assignment 3? This is new for this assignment.</p> 
-
-
+ any changes in process for Assignment 3? This is new for this assignment. 
  <p>Our group worked really well on Assignment two, we all contributed in a positive way 
  and worked very hard on each delegated task. We really helped each other out, offering
  advice and support for any queries we faced.</p> 
