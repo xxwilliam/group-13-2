@@ -97,13 +97,35 @@ and make it my permanent career</p>.
 
 
 <p><b><h2>TOOLS</h2></b></p>
+<head>
+ <style>
+a {
+  color: Red;
+}
+</style>
+</head>
+<body>
 
-<p>Link to group website</p>
-<p>https://github.com/xxwilliam/group-13-2 </p>
 
 
-<p>Link to groups GIT repository (GitHub)</p> 
-<p>https://github.com/xxwilliam/group-13-2 </p>
+<p><b><a href="https://github.com/xxwilliam/group-13-2" target="_blank">click this link for Website</a></b></p>
+
+
+<head>
+ <style>
+a {
+  color: Red;
+}
+</style>
+</head>
+<body>
+
+
+
+<p><b><a href="https://github.com/xxwilliam/group-13-2 " target="_blank">click this link for Github</a></b></p>
+
+
+
 
 
 
@@ -225,7 +247,7 @@ a {
  <head>
  <style>
 a {
-  color: Red;
+  color: Blue;
 }
 </style>
 </head>
@@ -241,7 +263,7 @@ a {
   <head>
  <style>
 a {
-  color: Red;
+  color: Blue;
 }
 </style>
 </head>
