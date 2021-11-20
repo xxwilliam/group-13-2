@@ -84,7 +84,7 @@ and make it my permanent career</p>.
 
  <p>Career Plans in our group range from entry level jobs to entrepreneurship.<b> Alexander</b> and<b> Madiha</b> want to continue their studies as well as start an IT career from beginner level jobs. <b>Samantha</b> also wants to continue her studies through RMIT and later transit towards web development. After attaining experience and knowledge needed<b> William</b> wants to continue his studies and has enrolled in Introduction to Programming and to work towards the project he is passionate about “ Developing an app to help domestic violence victims”.</p>
 
-<p>Overall in our group all of us are on the starting point of our Careers. Most of us have a clear picture of our goals and want to work towards it steadily. <b>Alexander's</b> goal is to eventually do project management and run bigger projects after achieving skills and experience needed.<b>Madiha</b> wants to pursue a career in Cyber Forensics as well as get certifications and specializations in different IT aspects. <b>Samantha</b> wants to pursue her studies and later wants to start entrepreneurship as well as work remotely. <b>Willam</b>wants to pursue a career in app developing and work on his personal project. Everyone is passionate about their future plans and working hard towards their respective goals. It will take time as we are just starting but as they say taking the first step is all that matters.</p> 
+<p>Overall in our group all of us are on the starting point of our Careers. Most of us have a clear picture of our goals and want to work towards it steadily. <b>Alexander's</b> goal is to eventually do project management and run bigger projects after achieving skills and experience needed.<b>Madiha</b> wants to pursue a career in Cyber Forensics as well as get certifications and specializations in different IT aspects. <b>Samantha</b> wants to pursue her studies and later wants to start entrepreneurship as well as work remotely. <b>William</b> wants to pursue a career in app developing and work on his personal project. Everyone is passionate about their future plans and working hard towards their respective goals. It will take time as we are just starting but as they say taking the first step is all that matters.</p> 
 
 
 <p><b><h2>TOOLS</h2></b></p>
@@ -150,7 +150,7 @@ a {
 
 <p>While this is our main overall aim, we have a few smaller goals, or checkpoints that we will need to achieve and prioritise along the way. The first goal is to get the main user interface up and running. This will include the home page and all of the different sub-pages that will be used to make up the website. The next step is to get the scheduling system up and running. The reason this is so important is because this is the main feature that is going to keep the users coming back consistently and we have to make sure that this is working well before we start to implement other features of the platform. The next main goal is to get the educational portion of the platform up and running. This is next because this will be the highest workload area of the development as it will include researching different rules and compiling educational materials as well as potentially collaborating with educators to develop our own learning material. Finally after that is complete, or at least progressing well, we would move onto implementing all of our other desired features.</p> 
 
-<p>If we had to choose only one of these above goals to complete due to time constraints or other constraints, it would be the educational aspect of the platform. This is because the educational aspect is what sets this platform apart from other game scheduling platforms, otherwise we would just be creating another platform that would be competing directly with other existing products.</p>
+<p>If we had to choose only one of these above goals. is to complete Our Project, due to time constraints or other constraints, it would be the educational aspect of the platform. This is because the educational aspect is what sets this platform apart from other game scheduling platforms, otherwise we would just be creating another platform that would be competing directly with other existing products.</p>
 
 
  <p>table goes here</p>
@@ -161,7 +161,7 @@ a {
  <p><h2><b>The Non-Compatibles Roles</b></h2></p>
  
  <p><b>Alex Ball: Lead Project Developer.</b></p>
- <p>As the project is in line with Alex's Basketball passion, both refereering and Teaching others on how to referee Basketball matches.</p>
+ <p>As the project is in line with ,b>Alex's</b> Basketball passion, both refereering and Teaching others on how to referee Basketball matches.</p>
  
  <p><b>Samantha Kurilic: Project Organiser.</b></p>
  <p>Making sure everyone has a task and helping out in anyway. Alos making sure everyone puts their work in the right place so it can be checked off when completed></p>
