@@ -153,8 +153,42 @@ a {
 <p>If we had to choose only one of these above goals to complete due to time constraints or other constraints, it would be the educational aspect of the platform. This is because the educational aspect is what sets this platform apart from other game scheduling platforms, otherwise we would just be creating another platform that would be competing directly with other existing products.</p>
 
 
+ <p><h2><b>ROLES</b></h2></p>
+ 
+ <p><h2><b>The Non-Compatibles Roles</b></h2></p>
+ 
+ <p><b>Alex Ball: Lead Project Developer.</b></p>
+ <p>As the project is in line with Alex's Basketball passion, both refereering and Teaching others on how to referee Basketball matches.</p>
+ 
+ <p><b>Samantha Kurilic: Project Organiser.</b></p>
+ <p>Making sure everyone has a task and helping out in anyway. Alos making sure everyone puts their work in the right place so it can be checked off when completed></p>
+ 
+ <p><b>Madiha Sabahat: Research Developer.</b></p>
+ <p>Researching the tools and technologies needed for the Project. And Researching on how to make Our project accessed by either a website on a computer, or mobile device.</p>
+ 
+ <p><b>William Hansen: GitHub Organiser and stressor.</b></p>
+ Organizing GitHub and working with the team on how to present it on GitHub and how it will look on the website.</p>
 
 
+ <p><h2><b>Scope and limits</b></h2></p>
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ <p><h2><b>Tools And Technologies</b></h2></p>
+ 
+ 
+ 
+ 
+ 
+ 
+ <p><h2><b>Testing</b></h2></p>
+ 
+ Testing Our Product will have its ups and downs as all new products. So in Testing Our product we will do a trial run with Basketball, Writing up all the rules and regulations, and examples of certain games plays, which more games  
+ 
  
 <h1><p>Project Idea.</p></h1>
 
