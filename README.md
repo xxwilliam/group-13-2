@@ -153,6 +153,9 @@ a {
 <p>If we had to choose only one of these above goals to complete due to time constraints or other constraints, it would be the educational aspect of the platform. This is because the educational aspect is what sets this platform apart from other game scheduling platforms, otherwise we would just be creating another platform that would be competing directly with other existing products.</p>
 
 
+ <p>table goes here</p>
+ 
+ 
  <p><h2><b>ROLES</b></h2></p>
  
  <p><h2><b>The Non-Compatibles Roles</b></h2></p>
@@ -187,7 +190,26 @@ a {
  
  <p><h2><b>Testing</b></h2></p>
  
- Testing Our Product will have its ups and downs as all new products. So in Testing Our product we will do a trial run with Basketball, Writing up all the rules and regulations, and examples of certain games plays, which more games  
+<p>Testing Our Product will have its ups and downs as all new products. So in Testing Our product we will do a trial run with Basketball, Writing up all the rules and regulations, and examples of certain games plays, which more games can be added at any time. To help the Referees. When our product is ready for Testing we will ask about 5 or 6 Referees and officials to have a free trail run for a few weeks, and ask them to provide feedback on how it all went, and if it was easy to use, and had simple explanations, and what could make it better eg. Faster, more content, that sort of thing.</p>
+
+<p>All sporting Referees and Officials will be shown how to use our Website on a laptop or mobile device, upon receving the feedback we will have a better understanding of what their needs and any concerns are. It will also gives us more ideas on how to develop the website for certain other sports in the future. As Our Product is aimed at sports (eventually other sports) it will have the same features , just different rules and codes. But just as easy to understand. While Our Product is being tested our staff will monitor how often it is used, and make sure it runs smoothly and no "dropouts".</p>
+
+<p>After the trail period a samll questionnaire will be given 4 to 5 questopns and if any major changes are needed. And also ask them if they would continue to ues Our Product, when it gets up and running in full. Our Product will have regular updates, to ensure Pur Product is up to dat with any new regulations and by-laws and security.</p>
+
+
+<p><h2><b>Timeframe</b></h2></p>
+
+
+
+
+
+
+<p><h2><b>Risks</b></h2></p>
+
+<p> We have chosen to use AWS for Our project. As AWS is one of the most popular web services, and on-demand cloud computing platforms. Alex has been getting familiarized on how to use AWS. Just like how we got to know GitHub. The risks besides the generic ones (those who shall not be named) are like the ones we take when tryng out new things some times it works ant some times it don't work but as we have only had a limited amount of time ( not months ) but only a few weeks. This is a trail and error. Some of the risks we mat encounter are the software or trying to put in place some features that the platform wont let us,but with Alex working hard on it we are sure to overcome this. Some of the other risks are AWS could get shut down or hacked, our hardware could fail, Earthquakes, fires, that sort of thing. Things that are out of our control, another risk is poor communication between out group.</p>
+
+
+
  
  
 <h1><p>Project Idea.</p></h1>
