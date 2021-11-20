@@ -27,48 +27,39 @@
  
 <p><b><h2>Group processes</h2></b></p>
  
- <p>How well did your group work together in Assignment 2? Will you be introducing
- any changes in process for Assignment 3? This is new for this assignment. 
- <p>Our group worked really well on Assignment two, we all contributed in a positive way 
+ <p><b>How well did your group work together in Assignment 2? Will you be introducing
+  any changes in process for Assignment 3? This is new for this assignment.</b></p>
+ 
+ <p>Our group worked really well on Assignment Two, we all contributed in a positive way 
  and worked very hard on each delegated task. We really helped each other out, offering
  advice and support for any queries we faced.</p> 
 
- <p>Assignment Two really gave us an opportunity to get to know each other's IT experience,
- including how big or little experience we had. There was a minor confusion with some of
- the assignments, but we overcame that, with hard work and help from each other.</p> 
+ <p>Assignment Two gave us an opportunity to get to know each other's IT experience,
+ including how big or little experience we had. Alex Ball, samantha Kurilic and Madiha Sabahat were very professional in the planing phase, gathering information and task delegation for the Assignment. Our GitHub and website were built by William Hansen, and with his limited experience he is quite chuffed with the outcome. William also transferred the IT project onto gitHub and the Website.</p> 
 
- <p>Alex Ball, Samantha Kurilic and Madiha Sabahat were very professional in the information
- they gathered for the Assignment, and William Hansen was really good at gathering all
- the work and putting it together on GitHub with his limited IT experience. As for this
- Assignment three, not many changes have been identified apart from using one google 
- doc to gather all our work in one place, to create an easier transition when submitting 
- the overall assignment. We have also identified we need to meet more frequently with
- deadlines for allocated tasks. Everyone is well aware of their allocated task and with
- more knowledge and practice we are working even better as a team and using all the
- resources we can obtain. We are pretty confident that we will knock this Assignment
- out of the park</p>
+ <p>As for this Assignment three,a few changes were identified and implemented, thses include using one google doc to gather all our work in one place, increasing communication via Teams meeting, chat functions and email. We also identified setting deadlines on all delegated tasks and keeping in contact with feedback and suggestions. Everyone is well aware of their allocated tasks and with more knowledge and practice we are working even better as a teamand using all the resources we can obtain. We are pretty confident that we will knock this Assignment out of the park.</p>
 
 
  <p><B><h2>Career plans</h2></b></p>
   
-<p>Compare and contrast the career plans, including ideal jobs,for each person in the group. This may have changed due to 
+<p><b>Compare and contrast the career plans, including ideal jobs,for each person in the group. This may have changed due to 
 feedback from Assignments 1 and 2. What common elements are there,if any? What differentiates each position from the others, 
-if anything? How similar or different are your career plans across the group? This is new for this assignment.</p>
+if anything? How similar or different are your career plans across the group? This is new for this assignment.</b></p>
 
 
 <p><b><h2>Alexander Ball</h2></b></p>
 
 <p>My Career plan is dependent on a few outside factors. My primary plan is to continue studying and to begin applying for
-entry-level jobs. I have recently applied and had the first 2 interviews for an entry-level traineeship that I was to get
+entry-level jobs. I have recently applied and had the first 2 interviews for an entry-level traineeship, that if I was to get
 would change my entire plan. If I were to get this role I would be able to put my online study on the back burner for now and 
-learn everything I needed for the role while on the job. I would also be mentored and coached through further studies as a part also be mentored and coached through further studies as a part of the role. If I don’t get the position I would continue along with what I am currently doing which is studying through RMIT and OUA part-time as well as applying for entry-level 1 
+learn everything I needed for the role while on the job. I would also be mentored and coached, through further studies. Also be mentored and coached through further studies as a part of the role. If I don’t get the position I would continue along with what I am currently doing which is studying through RMIT and OUA part-time as well as applying for entry-level 1 
 service desk roles, which is where I believe I would be able to develop and learn the most while not having much experience. 
 I would then like to progress into a Network Analyst/Administrator Role. I find networks and servers very interesting and would like to experience and learn more about that field. After that, I would like to do some project management and run bigger projects once I have the skills and  knowledge required.</p>
 
 
 <p><b><h2>Samantha Kurilic</h2></b></p>
 
-<p>My career plan continues to be focused on IT desktop support, and cyber security. My short term plan is to continue studying with RMIT to be given more scope and develop my knowledge and kills. After completing Assignment Two, Industry Data, this has opened up my thought process and encouraged me to delve deeper and seek what is a highly sought role to think about. I have always had a keen interest in website development and programming also, so this is definitely something I will need to develop with ongoing studying. The end goal I see myself working as an entrepreneur offering my skills and services remotely, this will offer the ability to work flexibly and anywhere.</p> 
+<p>My career plan continues to be focused on IT desktop support, and cyber security. My short term plan is to continue studying with RMIT to be given more scope and develop my knowledge and skills. After completing Assignment Two, Industry Data, this has opened up my thought process and encouraged me to delve deeper and seek what is a highly sought role to think about. I have always had a keen interest in website development and programming also, so this is definitely something I will need to develop with ongoing studying. The end goal I see myself working as an entrepreneur offering my skills and services remotely, this will offer the ability to work flexibly and anywhere.</p> 
 
  
 <p><b><h2>William Hansen</h2></b></p>
@@ -77,12 +68,12 @@ I would then like to progress into a Network Analyst/Administrator Role. I find 
 It is still with Security but in regards with Domestic Violence Victims. I want to learn how to develop an App to help all
 Domestic Violence Victims. The App would have things like GPS tracking, a panic button that would send out an alert to an 
 organization or the police. To send help asap, too many people have been hurt or have passed away from Domestic Violence and 
-this App would help and Women and Men. This App could be used to help other types of Violence like rape or abduction. It could also be a piece of jewellery, with a tiny button on it. This is very different from my 1st and 2nd Assignments ideal job or Career plans I had.</p> 
+this App would help and Women, Men and children. This App could be used to help other types of Violence like rape or abduction. It could also be ( in the near future placed in a piece of jewellery,) with a tiny button on it. This is very different from my 1st and 2nd Assignments ideal job or Career plans I had.</p> 
  
 
 <p><b><h2>Madiha Sabahat</h2></b></p>
 
-<p>My Career plans have changed a little bit after  assignment 1 and 2. I had very little knowledge of IT and how can I progress  my career in this field. I am currently studying through OUA and RMIT part time. After completing my current subject  I have enrolled in “Introduction to Programming” , then I plan to pursue Bachelors in Information  Technology to 
+<p>My Career plans have changed a little bit after assignment 1 and 2. I had very little knowledge of IT and how can I progress my career in this field. I am currently studying through OUA and RMIT part time. After completing my current subject  I have enrolled in “Introduction to Programming”, then I plan to pursue Bachelors in Information Technology to 
 start my career. I also want to start working in IT from a beginner level job along with my studies to gain experience 
 in the field. I also want to achieve a few certifications and specializations in different aspects of IT to sharpen 
 my skills and increase my knowledge. Somewhere down the lane I would like to pursue a masters degree in Cyber Forensics
@@ -91,7 +82,7 @@ and make it my permanent career</p>.
   
 <p><b><h2>Group Career Plans:</h2></b></p>
 
- Career Plans in our group range from entry level jobs to entrepreneurship.<b> Alexander</b> and<b> Madiha</b> want to continue their studies as well as start an IT career from beginner level jobs. <b>Samantha</b> also wants to continue her studies through RMIT and later transit towards web development. After attaining experience and knowledge needed<b> William</b> wants to work towards the project he is passionate about “ Developing an app to help domestic violence victims”.</p>
+ <p>Career Plans in our group range from entry level jobs to entrepreneurship.<b> Alexander</b> and<b> Madiha</b> want to continue their studies as well as start an IT career from beginner level jobs. <b>Samantha</b> also wants to continue her studies through RMIT and later transit towards web development. After attaining experience and knowledge needed<b> William</b> wants to continue his studies and has enrolled in Introduction to Programming and to work towards the project he is passionate about “ Developing an app to help domestic violence victims”.</p>
 
 <p>Overall in our group all of us are on the starting point of our Careers. Most of us have a clear picture of our goals and want to work towards it steadily. <b>Alexander's</b> goal is to eventually do project management and run bigger projects after achieving skills and experience needed.<b>Madiha</b> wants to pursue a career in Cyber Forensics as well as get certifications and specializations in different IT aspects. <b>Samantha</b> wants to pursue her studies and later wants to start entrepreneurship as well as work remotely. <b>Willam </b>wants to pursue a career in app developing and work on his personal project. Everyone is passionate about their future plans and working hard towards their respective goals. It will take time as we are just starting but as they say taking the first step is all that matters.</p> 
 
@@ -129,16 +120,16 @@ a {
 
  <p> Our project was based on refereeing and officiating Basketball matches, but we have decided to expand to (eventually) all ball sports, i.e soccer, cricket, Afl, rugby league, and more. This is a personal development system, as most information is word of mouth or a course you can do that just covers the basics. The web site/ app can be used for such things as official roasters, review from coaches, game stats, accreditation tests.</p>
 
- <p>Also Our project will help officials and referees with on hand rules and by-laws of the games. With a section on game schedules , video highlights of games, leaderboard of teams, and more when fully developed. But more so it will be a learning tool for new and a refresher for referees and officials to get up to date rules and bylaws. All this can be accessed on either laptop or mobile device.</p>
+ <p>Also Our project will help officials and referees with on hand rules and by-laws of the games. With a section on game schedules, video highlights of games, leaderboard of teams, and more when fully developed. But more so it will be a learning tool for new and a refresher for referees and officials to get up to date rules and bylaws. All this can be accessed on either laptop or mobile device.</p>
 
  <p>We think this will be an asset to any sporting club or organization, with drop down menus with easy access to what they're looking for. It will be done in a professional manner with clear side menus</p>
 
 
 <p><b><h2>Motivation</h2></b></p>
  
-<p>Alex: The Motivation behind this project is two pronged. The original idea came from Alex’s desire to have a platform for Basketball referees to have Scheduling, Education and development services all in one place. This combined with Sam’s original idea to have a platform to assist with the education of people with learning sign language molded this project into what it has become, which is a platform that aims to include all sports and offers scheduling, education, individualised feedback and more. The goal is to have one platform for any official of anysport to come to to further their education and development in their chosen sport.,/p> 
+<p>Alex: The Motivation behind this project is two pronged. The original idea came from Alex’s desire to have a platform for Basketball referees to have Scheduling, Education and development services all in one place. This combined with Sam’s original idea to have a platform to assist with the education of people with learning sign language moulded this project into what it has become, which is a platform that aims to include all sports and offers scheduling, education, individualised feedback and more. The goal is to have one platform for any official of anysport to come to to further their education and development in their chosen sport.</p> 
 
-<p>This project fits into some current IT trends. It is being developed as a web based platform/application as essentially a learning platform. The aim of the project is to assist people in their personal and professional development as well as giving them tools to assist them. Working on this project would show a future employer that the potential prospect has the skills to work together with a wide variety of people as well as has a wide range of skills that allowed them to help build and market this product.</p> 
+<p>This project fits into some current IT trends. It is being developed as a web based platform/application as essentially a learning platform. The aim of the project is to assist people in their personal and professional development as well as give them tools to assist them. Working on this project would show a future employer that the potential prospect has the skills to work together with a wide variety of people as well as has a wide range of skills that allowed them to help build and market this product.</p> 
 
 
  <p><b><h2>Landscape</h2></b></p>
@@ -146,12 +137,16 @@ a {
 
 
 
- <P>There are a few similar products/systems available, but not in Australia. There’s 1 in the UK that does all kinds of sports, which is what we are thinking of doing eventually. Our product will be more user friendly than the others. And have on hand sporting referees and officials to answer any queries regarding, rules and laws of the game. Our product will have Coaching reviews, training manuals for new referees, Referees and officials work rosters, Areas for officials to report on games, Ability to create custom forums, Game scheduling, Weather reports if games are played outside, Game reviews and stats on players, Maps of where venues are, and much more. Our product will be an ongoing development to ensure we stay ahead of any competitors. With dedicated staff and officials, and up to date with the latest software and security. With technicians on call 24/7 for any tech problems. We may also in the future include a learning algorithm to help with training, coaching and refereeing.</p>
+ <P>There are a few similar products/systems available, but not in Australia. There’s one in the UK that does all kinds of sports, which is what the overall plan may be.We would like to include research with numerous testing methods for our overall product to be user-friendly and hopefully reflect this with the current products/systems on the market.</p>
+ 
+ <p>Having a pinot of difference with the potential of virtual sporting referees and officials to answer any queries regarding, rules and laws of the game. Our product will have coaching reviews, training manuals for upcoming referees, referees and officials work roasters,areas for officials to report on games and the ability to create customer forms. Alongside this game schedules, weather reports for outdoor games, game reviwes and stats on players, maps of where venues are, and much more.</p>
+ 
+ Our product will be an ongoing development to ensure we stay ahead of current future trends, with deciated staff and officials, and up to date software and security. Technicians on call 24/7 for any techinical problems we may face and potential training in algorithms to help with training, coaching and refereeing.</p>
 
 
 <p><b><h2>Aims</h2></b></p>
 
-<p>The overall aim of this project is to provide sports officials with an online platform where they can have game scheduling, education, feedback and resources all in one user-friendly location. We have started this project because we believe that there is a niche in the market for a platform such as this and that through creating this we would be able to help better and develop the various sports officials around the country, and potentially the world.</p>
+<p>The overall aim of this project is to provide sports officials with an online platform where they can have game schedules, education, feedback and resources all in one user-friendly location. We have started this project because we believe that there is a niche in the market for a platform such as this and that through creating this we would be able to help better and develop the various sports officials around the country, and potentially the world.</p>
 
 <p>While this is our main overall aim, we have a few smaller goals, or checkpoints that we will need to achieve and prioritise along the way. The first goal is to get the main user interface up and running. This will include the home page and all of the different sub-pages that will be used to make up the website. The next step is to get the scheduling system up and running. The reason this is so important is because this is the main feature that is going to keep the users coming back consistently and we have to make sure that this is working well before we start to implement other features of the platform. The next main goal is to get the educational portion of the platform up and running. This is next because this will be the highest workload area of the development as it will include researching different rules and compiling educational materials as well as potentially collaborating with educators to develop our own learning material. Finally after that is complete, or at least progressing well, we would move onto implementing all of our other desired features.</p> 
 
