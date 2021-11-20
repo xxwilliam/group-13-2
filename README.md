@@ -205,6 +205,11 @@ a {
  
  
  <p><h2><b>Tools And Technologies</b></h2></p>
+ <p>After receving feedback from our tutor for Assignment 2, we have decided to build a mobile-first responsive website. We are creating our website using both server-side and client-side languages, HTML, CSS, PHP, ASP, and Javascript. There are a lot of tools available to design our website but as we are just beginning for editing, layout and design we are also using jQuery, Emmet and Flexbox.</p>
+ 
+ <p>We are hosting on AWS, all of us signed up for AWS accounts. We are using EC2. Amazon S3, for domain Amazon rouye 53, SSL certificate for security and Amazon CloudFront.As we are just starting and our expertise is very limited, we don't need any special hardware at the momentto build Our project. All of us are working remotely through our standard laptops to build our website.</p>
+ 
+ <p> None of us had any previous experience with any technology we are using to build our project. We only learned HTML in our first few weeks of this course. We were not familar with CSS, Javascript or any other tools that we are using before we started Our Project. All of us have spent a lot of time learning the basics of these technologies and tools. In the future we will need formal knowledge and certification of all the programming languages used and all tools and technoloiges used in building our wesite because this is just the beginning.</p>
  
  
  
