@@ -331,7 +331,7 @@ table, th, td {
 
 <p>All sporting Referees and Officials will be shown how to use our Website on a laptop or mobile device, upon receving the feedback we will have a better understanding of what their needs and any concerns are. It will also gives us more ideas on how to develop the website for certain other sports in the future. As Our Product is aimed at sports (eventually other sports) it will have the same features , just different rules and codes. But just as easy to understand. While Our Product is being tested our staff will monitor how often it is used, and make sure it runs smoothly and no "dropouts".</p>
 
-<p>After the trail period a samll questionnaire will be given 4 to 5 questopns and if any major changes are needed. And also ask them if they would continue to ues Our Product, when it gets up and running in full. Our Product will have regular updates, to ensure Pur Product is up to dat with any new regulations and by-laws and security.</p>
+<p>After the trail period a samll questionnaire will be given 4 to 5 questions and if any major changes are needed. And also ask them if they would continue to use Our Product, when it gets up and running in full. Our Product will have regular updates, to ensure Our Product is up to dat with any new regulations and by-laws and security.</p>
 
 
 <p><h2><b>Timeframe</b></h2></p>
@@ -346,9 +346,285 @@ table, th, td {
 <p> We have chosen to use AWS for Our project. As AWS is one of the most popular web services, and on-demand cloud computing platforms. Alex has been getting familiarized on how to use AWS. Just like how we got to know GitHub. The risks besides the generic ones (those who shall not be named) are like the ones we take when tryng out new things some times it works ant some times it don't work but as we have only had a limited amount of time ( not months ) but only a few weeks. This is a trail and error. Some of the risks we mat encounter are the software or trying to put in place some features that the platform wont let us,but with Alex working hard on it we are sure to overcome this. Some of the other risks are AWS could get shut down or hacked, our hardware could fail, Earthquakes, fires, that sort of thing. Things that are out of our control, another risk is poor communication between out group.</p>
 
 
+<p><b>Group processes and communication</b></p>
+
+<p>We have been in constant contact with each other through Microsoft teams, using the message function and video link on a regular basis, meetings are 2 to 3 times per week and go for about 30 mins to an hour. We have had a few hick-ups with Alex’s computer going down for a week, then unforeseen personal circumstances for all members of our group. However, we have stayed in constant contact via message on Teams as it has been the best tool for us within this challenging time. We have been able to check up on each other, offer support, delegate tasks and update on where we are all up to. The Teams message tool has really offered an equal source of communication as a video link would have and hasn’t failed us in being able to complete our project.</p>
+
+
+<head>
+<style>
+#customers {
+  font-family: Arial, Helvetica, sans-serif;
+  border-collapse: collapse;
+  width: 100%;
+}
+
+#customers td, #customers th {
+  border: 4px solid #000000;
+  padding: 8px;
+}
+
+
+
+
+
+#customers th {
+  padding-top: 12px;
+  padding-bottom: 12px;
+  text-align: center;
+  background-color: #DC143C;
+  color: white;
+}
+</style>
+</head>
+<body>
+
+<h1><b>Weekly Reflection</b></h1>
+
+<table id="customers">
+  <tr>
+    <th>Week 1</th>
+    <th>Tasks</th>
+   
+  </tr>
+  <tr>
+    <td><b>Sam</b></td>
+    <td><b> Design Elements-</b>Commence a mockup website layout.Unpack the Project Idea from Assignment one and decipher what elements are to be developed for the website. Break up the elements and create sections that are appropriate to work with.</td>   
+  </tr>
+  <tr>
+    <td><b> Mahiha</b></td>
+    <td><b>Research-</b> Madiha to research what plugins/IT elements will be required.</td>    
+  </tr>
+  <tr>
+    <td><b>Alex</b></td>
+    <td><b> Platform-</b> Establish what platform will host our project.</td>   
+  </tr>
+  <tr>
+    <td><b>Troy</b></td>
+    <td><b>Group Processes-</b> Troy to collate information for Assignment 2.</td>
+  
+   <table id="customers">
+  <tr>
+    <th>Week 2</th>
+    <th>Tasks</th>
+    
+  </tr>
+  <tr>
+    <td><b>All Team</b></td>
+    <td><b>Career Path-</b> To Contrast their career path.</td>  
+  </tr>
+  <tr>
+    <td><b>Madiha</b></td>
+    <td><p><b>- Career Path-</b> To combine all career paths and complete overall resualt.</p>
+      <p><b>- Research.</b></p>
+    </td>   
+  </tr>
+  <tr>
+    <td><b>Sam</b></td>
+    <td><b>Design Elements-</b>Continue with mockup website layout, share with Alex all the elements of the website so he can commence working with how thses tools will be deployed.</td>    
+  </tr>
+  <tr>
+    <td><b>Troy</b></td>
+    <td><b> Group Processes-</b> Troy completed, Team open to make or add information to the overall response.</td>   
+  </tr>
+  <tr>
+    <td><b> Alex</b></td>
+    <td><b>Platform-</b> Alex has found the preferred platform AWS.</td>
+  
+   <table id="customers">
+  <tr>
+    <th>Week 3</th>
+    <th>Tasks</th>
+    
+  </tr>  
+  <tr>
+    <td><b>Alex </b></td>
+    <td><b> Website Draft-</b> To work on the draft website and all elements.</td>
+    </tr>
+    <tr>
+    <td><b> Alex</b></td>
+    <td><b> Design Elements-></b><b>Sam </b> send <b>Alex</b> to identify what platforms will hold all the different items on our website</td>
+    </tr>
+    <tr>
+    <td><b>Sam</b></td>
+      <td><p>To collate and create our weekly reflection.</p>
+        <p>Create a breakdown of the matrix in a to do list</p></td>
+    </tr>
+    <tr>
+    <td><b>Madiha</b></td>
+      <td><p>Researching skills, software and tools needed for ther project,</p>
+        <p>Research AWS.</p></td>
+    </tr>
+    <tr>
+    <td><b>Troy</b></td>
+    <td>To work on GitHub,</td>
+       <table id="customers">
+  <tr>
+    <th>Week 4</th>
+    <th>Tasks</th>
+    
+  </tr>
+    <tr>
+      <td><b>Madiha</b></td>
+      <td>Tools and Technologies needed for our project.Skills required for key positions and jobs</td>
+    </tr>
+     <tr>
+       <td><b>Sam</b></td>
+       <td>Commenced plan and progress and unpacks all elements of the initial stages of website</td>
+         </tr>
+         <tr>
+           <td><b>troy</b></td>
+           <td>Created GitHub, Testing and Risk.</td>
+         </tr>
+         <tr>
+           <td><b>Alex</b></td>
+           <td>Career plan, Tools, Topic, Movivation, Aims.</td>
+         </tr>
+         <table id="customers">
+  <tr>
+    <th>Week 5</th>
+    <th>Tasks</th>
+    
+         </tr>
+         <tr>  
+           <td><b>Alex</b></td>
+           <td>Plans and progresses, Roles, Scope and limits.</td>
+           </tr>
+           <tr>
+          <td><b>Sam</b></td>
+          <td><p>Support time-management, manage topics needing attention and individual group reflection.</p>
+           <p>Review project for grammer and design layout</p></td>
+           </tr>
+           <tr>
+             <td><b>Madiha</b></td>
+             <td>Individual group reflection, group reflection, skills and jobs.</td>
+           </tr>
+           <tr>
+             <td><b>Troy</b></td>
+             <td>Transfer all project content to github</td>
+           </tr>
+   
+    
+ 
+</table>
+<p><b>Skills and Jobs</b></p>
+  
+<p>We are at the very beginning of the development of our project but as we move forward furthermore skills and expertise will be needed to develop a professional working website. Previously we have identified the basic skills needed to build our website but if we are given the opportunity to develop our project for the next six months, the skills and expertise needed to complete the project will be advanced and professional which will need experienced employees to complete the task.
+A lot of work goes behind the scenes in creating a good quality website. It takes an entire team of professionals with a variety of skill sets to develop a website. If we are given an opportunity to Manage the project for the next six months and hire four professionals for the work the key positions will be,</p>
+  <p>1. Web Designer</p>
+  <p>2. Web Developer</p>
+  <p>3. Web Content strategist</p>
+  <p>4.QA Developer</p>
+<p>In our opinion, these four professionals will be needed to complete essential work and to get our website up and running. I will individually write the skill set and expertise needed for all four job titles below.
+Web Designer: 
+Web designers are the individuals who create the overall look of the website. The Plan, create and code the websites and webpages. They determine the website’s intended message and create designs that support it. Their skills are a mix of technical and artistic skills.
+ We will be working as a team to develop a responsive website so many soft skills will also be required to work in a team environment and reach our goals in time.</p>
+  <p><b>Skills Required:</b></p>
+  
+  <p>- UX/UI Design (User experience and User Interference design)</p>
+  <p>-Programming (coding languages of JavaScript, HTML and CSS)</p>
+  <p>-Agile development methods</p>
+  <p>-Design software</p>
+  <p>-Graphic design</p>
+  <p>-Soft Skills Required:</p>
+  <p>-Excellent Time management</p>
+  <p>-Organizational skills</p>
+  <p>-Communication with team</p>
+  <p>- Attention to detail</p>
+  <p>-Problem-solving</p>
+  <p>-Analytical skills</p>
+  <p><b>Qualifications Required:</b></p>
+  
+<p>Degree required in web design or computer science. Familiarity and experience with web design software and coding languages required (HTML5, CSS, JavaScript). Ability to work in a team environment. Excellent organizational, visual, and interpersonal skills</p>
+  <p><b>Experience:</b></p>
+<p>As we will have a specific period of time to complete this project, we will need someone with at least 4-5 years of experience in the industry.</p>
+ 
+  <p><b>Web Developer: </b></p>
+<p>Web Developers are the ones responsible for the functionality of their website. They must have experience working with IP networks, database development and very good knowledge of operating systems. They will be responsible for writing code to build a website both at the front end and the back end. The front is the website that the users see and the backend is the one that sends information to the front end. They will implement testing tools to continuously monitor the website and ensure that website and related applications are secure and working properly.
+  We need someone who is exceptional in communicational skills and is a very good team member.</p>
+  <p><b>Skills Required are:</b></p>
+  <p>-Exceptional HTML skills</p>
+  <p>-Exceptional CSS skills</p>
+  <p>-Exceptional JavaScript skills</p>
+  <p>-Testing and Debugging</p>
+  <p>-GIT</p>
+  <p>-Basic graphic design</p>
+  <p>-Responsive design skills</p>
+  <p>-Back end and Databases</p>
+  <p>-Working with Hosting (Publishing the website)</p>
+  <p>-SEO</p>
+  <p><b>-Soft skills needed to work in our team environment are:</b></p>
+  <p>-Communication skills</p>
+  <p>-Time management</p>
+  <p>-Organizational skills</p>
+  <p>-Critical thinking</p>
+  <p>-Creativity</p>
+  <p>-Problem-solving</p>
+  <p>-Adaptability</p>
+  <p><b>Qualifications required:</b></p>
+<p>Bachelors’ degree in computer science or web development. Experience working in HTML for web, CSS, JavaScript, and jQuery. Excellent communication skills with the ability to speak to both creative and technical audiences</p>
+  <p><b>Experience required:</b></p>
+<p>We will need someone with 3-4 years experience of working in the industry as head Web Developer.</p>
+  <p><b>Web Content Strategist:</b></p> 
+<p>Web content strategists will help create the appropriate content for our website. They will help gather all the information and present it in a way that will influence the users. They will strategize and improve content delivery. They will set editorial strategies to make sure that our content is consistent and compelling on all of our platforms. They will also work with the professionals and organizations that we want to work with for our website’s educational content. Content strategists will closely work with the team to reach our goal of developing this one-of-a-kind educational and responsive website.</p>
+  <p><b>Skills Required are,</b></p>
+  <p>-Copywriting skills to plan, design and edit the content</p>
+  <p>-Presentation skills</p>
+  <p>-Content Delivery skills</p>
+  <p>-Critical thinking</p>
+  <p>-Excellent effective communication skills</p>
+  <p>-High level of computer literacy</p>
+  <p>-Time management</p>
+  <p>-Excellent organizational skills</p>
+  <p><b>Qualifications Required:</b></p>
+<p>Qualification in Marketing, communication or digital media. Qualified in using CMS platforms and managing/editing websites. Appropriate certification for advanced computer skills.</p>
+  <p><b>Experience:</b></p>
+<p>Previous experience needed of at least 5+ years with similar roles including web content admin, production, and development</p>.
+ 
+  <p><b>QA Developer: </b></p>
+<p>Testing the website and all its functions before presenting it in the market is one of the most important jobs. We will need a professional who will work closely with our team and determine that our website is functioning correctly and according to our plans. They will identify bugs, mistakes and errors that have not been noticed by designers, developers and other team members. They will also test the website for security and make sure that the site has no vulnerabilities or other problems with security.</p>
+  <p><b>Skills Required are,</b></p> 
+  <p>-Excellent verbal and written communication skills</p>
+  <p>-Exceptional Team collaboration because they will need to work closely with developers, designers and all team members</p>
+  <p>-Time management skills</p>
+  <p>-Critical thinking</p>
+  <p>-Accuracy</p>
+  <p>-Coding</p>
+  <p>-Analytical skills</p>
+  <p>-Understanding of client-server model</p>
+  <p>-Knowledge of various software testing techniques</p>
+  <p><b>Qualifications Required are,</b></p>
+  <p>BS/MS degree in Computer Science, Engineering or a related subject.</p>
+Experience Required:
+<p>We need someone with at least 4+ years of experience as a QA developer. Experience with performance or security testing will be a bonus for us.
+ With this team, we will be able to complete our project in the next 6 months with a lot of hard work, team dedication and exceptional skills.</p> 
+  <p><b>Resources:</b></p>
+<p>www.indeed.com. (n.d.). Search | Indeed.com. [online] Available at: https://www.indeed.com/career-advice/search?q=web+content+strategist  [Accessed 21 Nov. 2021].</p>
+<p>www.scnsoft.com. (n.d.). Web development team: Who you need for a successful web app project. [online] Available at: https://www.scnsoft.com/blog/how-to-assemble-a</p>
+<p>Recruiting Resources: How to Recruit and Hire Better. (2013). Quality Assurance (QA) Engineer job description template | Workable. [online] Available at: https://resources.workable.com/qa-engineer-job-description</p>
+<p>www.bairesdev.com. (n.d.). Top 10 Skills to Look for in a QA Engineer - BairesDev. [online] Available at: https://www.bairesdev.com/software-development/top-qa-engineer-skills/  [Accessed 21 Nov. 2021].[</p>
 
  
- 
+        <p><b><h2>FEEDBACK</h2></b></p>
+  <p><b>Group Reflection:</b></p> 
+  <p><b>William Hansen</b></p>
+<p>Our group worked really well on Assignment 2. Everyone contributed in a positive way, we all worked very hard on what each member's tasks were, helping out when it was needed. Giving advice on how to tackle different problems. Getting to know each other's IT experience, how or how little experience we had. There was a hick-up with some of the Assignment, but we overcame that, with hard work and help from each other. Alex Ball, Samantha Kurilic, Madiha Sabahat were very professional in the information they gathered for the Assignment, William Hansen was good at trying to put it all together with his limited IT experience. As for this Assignment, not many changes. Everyone knows what their job is, and now we have a lot more practice at working as a team and using the resources. I am sure we will knock this Assignment out of the park</p>
+
+
+  <p><b>Samantha Kurilic</b></p>
+<p>Our group is quite unique, with multiple skills, knowledge, abilities we all offer respect, integrity and compassion. When we commenced Assignment three we took the feedback from Tim as positive criticism and adapted this to our output. We all agreed that we could have done some things differently and perfected time management. We met to chat about how we would get going with the assignment, Alex developed the To-do list and I started the collaboration for the working document, including layout, subheadings and headings. We identified the roles that would fit into the group according to skills we have learnt about each other. This led me to develop a mock-up website that supported the foundation of our project alongside supporting time management and delegation. When working as a team, we all put our hands up and get to work with consistent communication via Team messaging. Madiha does really good work with research and as a team, Troy has become quite skilled in GitHub and has definitely been an asset in managing this and supporting the team with the overall team project. Alex is able to elaborate on the in-depth and personable meanings of the multiple elements and offers research into the platforms required.</p> 
+
+
+  <p><b>Alexander Ball</b></p>
+<p>Our group consists of four very different people, hence the name the Non-Compatibles, however despite this name we gave ourselves we were able to work extremely well together over the course of this assignment and this entire course in general. We took the feedback from Tim in the previous assignment and made plans to improve in those areas immediately. Over the course of this assignment each team member had personal issues that took them away from the group for long periods of time, however despite this we were all able to come together and complete this assessment to a good quality. I wish everyone the best in the future and I hope that I get to work with them again going forward.</P>
+  <p><b>Madiha Sabahat</b></p>
+<p>Everyone in our team has different skills and interests. After doing Assignment 2 together we all knew our strengths and our weaknesses. The best part about this team is that everyone got to do what they love the most. We divided our duties among ourselves and despite not being able to arrange a lot of meetings we were able to complete our tasks and communicate via Microsoft Teams Chat. I like researching and collecting information. I was given the opportunity to research everything regarding Our Project. Samantha created a Mock-Up website which gave us a draft of our Project. Alex was our project head. He created the To-Do list and divided Tasks among us. Troy has been working very hard with GitHub repository and our GitHub page. Although we all had our assigned tasks, whenever we got a chance, we helped each other out with ideas, proof reading or however the help was needed. I have learned a lot from everyone. I have realized I did better in group assignments than I did in my individual assignments. I am happy I got to work with these amazing humans. I am happy and looking forward to what comes next.</p>
+
+  <p><b>Group Reflection:</b></p>
+<p>It has been a great 10-12 weeks of collaborating with each other. It's hard to think that we didn’t know each other a few weeks back. We named our group The Non-compatibles because the first time we talked we realized how different we were from each other in our skills, our ideal jobs and in our career plans. Despite our differences we came together, made a plan and executed it perfectly. After our feedback for Assignment 2, we got together and discussed the result and feedback given by our Tutor. Everyone was assigned tasks to their strengths for Assignment 3. The amazing thing is that we all perfectly adjusted in our roles. We have learned from each other in past weeks. We all were resuming our studies after a long break and managing it along with our jobs, families and daily routines.</p>
+ <p>We chose Alex’s project idea for our assignment 3 and he was our project head. He perfectly appointed the team tasks and everyone completed them in time including himself. Samantha designed the layout of the website, she also made a checklist which helped us in time management and keeping a track on our tasks. William did everything regarding our GitHub pages and GitHub repository.  Alex and William also researched about AWS and familiarize themselves with it. Madiha did the research for the tools and technologies needed to build our project and also researched about AWS and how we can host our website on it.</p>
+<p>Everyone was understanding, helpful and compassionate with each other. When you work together in a team sometime you have disagreements as well but the best thing about this amazing team is that we didn’t have any disagreement we had some healthy discussions but no disagreements that could lead to arguments, there was no egoistic fights for leadership. Everyone took charge when it was their turn. We are really happy that we got to work with each other and learn from each other. This team made studying this course easy. We looked forward to our meetings and asking each other about how our week went. We are happy with our efforts individually and as a team. When we wrote our Profile test results, we talked about how our personalities will help our team members, it's amazing that everyone was right about their results. We are looking forward to what comes next after this course but we will definitely miss working as a team, The Non-Compatibles.</p>
+
 
 
 
