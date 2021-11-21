@@ -145,7 +145,7 @@ a {
  
 <p>Although this project started as a platform just aimed at Basketball Referees, it will be available for Officials form all sports, whether that be AFL, NRL, Rugby, Cricket or any other sport where the officials would require additional learning. Although this platform is aimed at the officials of the games, this will be a great platform for the associations or governing bodies of the sports to pass information on their officials and also to ensure that they are on the same page. We will be implementing a testing and accreditation system that will be customizable so that the association can be confident in their official’s ability as well as know where there is room for improvement.</p>
  
-<p>This platform will be an asset to both officials and their associations, and we believe that it will fill a niche in the current official education system.>/p>
+<p>This platform will be an asset to both officials and their associations, and we believe that it will fill a niche in the current official education system.</p>
 
 
 <p><b><h2>Motivation</h2></b></p>
@@ -182,7 +182,7 @@ a {
  <p><b>Alexander (Alex) Ball:</b> Head of Sales and App Developer</p>
 <p><b>Alex is the head of Sales as well as being one of our App Developers, he is very passionate about Officiating and is the source of a lot of our information on what will be most beneficial to Officials and Associations.</p>
 
- <p><b>Madiha Sabahat: </b>Head of Research and App Designer</p>
+ <p><b>Madiha Sabahat:</b>Head of Research and App Designer</p>
  <p><b>Madiha</b> is our Head of Research as well as one of our App Designers. She has been gaining extra information on what officials need from a platform as well as helping us to find the tools and skills we need to develop the platform.</p>
 
  <p><b>Samantha Kurilic:</b> Head of Visual Design and Web Design.</p>
