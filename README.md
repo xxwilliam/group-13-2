@@ -336,6 +336,181 @@ table, th, td {
 
 <p><h2><b>Timeframe</b></h2></p>
 
+<style>
+table, th, td {
+  border:1px solid Blue;
+  border-collapse: collapse;
+}
+</style>
+
+<body>
+
+<h2><b>TimeFrame</b></h2>
+
+<table style="width:100%">
+  <tr>
+    <th>Week 1</th>
+    <th>n the first week Samantha spent almost 2-3 hrs on developing the design and Mock-Up website for our assignment.
+ Madiha spent 2 hrs on research of the tools and technologies needed for the project. 
+Alex spent almost 2 hrs communicating with our tutor to determine what platform we will use for our project.
+William spent 1-2 hrs collating our information from assignment 2
+</th> 
+    
+  </tr>
+  <tr>
+    <td>Week 2</td>
+    <td>Alex spent 2 - 3 hpurs on researching the platform we were advised by our Tutor to use. 
+Samantha spent 2-3 hrs in creating a checklist for our tasks for time management.
+Madiha spent 1-2 hrs researching our career plans and comparing the information.
+William spent 2-3 hrs on Group processes. 
+</td>
+    
+  </tr>
+  <tr>
+    <td>Week 3</td>
+    <td>Samantha spent 2-3 hours on unpacking all the initial elements of our website
+Alex spent 1-2 hours and made himself familiar with AWS
+Madiha spent 1-2 hrs and  researched and made note abouts all the tools we would need to build our website
+</td>
+    
+  </tr>
+  <tr>
+    <td>Week 4</td>
+    <td>Alex worked on the storyboard of our project and spent 3-4 hrs on it.
+Sam finalised the outlay of our websites design and spent 2-3 hrs
+Madiha researched about all the skills we will need to complete our website and made notes, spent 2 hrs
+William started working on the GitHub repository and spent 3-4 hrs
+
+</td>
+    
+  </tr>
+</table>
+<style>
+table, th, td {
+  border:1px solid Blue;
+  border-collapse: collapse;
+}
+</style>
+
+<body>
+
+
+
+<table style="width:100%">
+  <tr>
+    <th>Week 5</th>
+    <th>In this week everyone spent almost 4-5 hrs each on the final document for assignment 3. 
+
+</th> 
+   
+  </tr>
+  <tr>
+    <td>Week 6</td>
+    <td>Alex spent 3-4 hrs finalizing Assignment 3 and 4.
+Sam spent 3-4 hrs proofreading and finalizing the assignment.
+Madiha spent 3-4 hrs working on the final assignment.
+William worked on the GitHub repository for Assignment 3 and spent 5-6 hrs on it.
+
+</td>
+    
+  </tr>
+  <tr>
+    <td>Week 7</td>
+    <td>We will start taking free tutorials on HTML. Madiha and Alex will spend almost 2-3 hrs in starting coding the website.
+Samantha will spend 2-3 hrs on learning designing tools and deciding what we will use in our website.
+William will spend 2-3 hrs in collecting content for our website.
+
+</td>
+   
+  </tr>
+  <tr>
+    <td>Week 8</td>
+    <td>Everyone will spend 1-2 hrs on building our website and researching alongside
+
+</td>
+   
+  </tr>
+</table>
+<style>
+table, th, td {
+  border:1px solid Blue;
+  border-collapse: collapse;
+}
+</style>
+
+<body>
+
+
+
+<table style="width:100%">
+  <tr>
+    <th>Week 9</th>
+    <th>Alex and  Troy will keep working on the website, Samantha will work on the website design. Madiha will research about the content needed for our website</th> 
+   
+  </tr>
+  <tr>
+    <td>Week 10</td>
+    <td>Everyone will spend 1-2 hrs researching the content for our website and catching up on everything we have done until than
+
+</td>
+
+  </tr>
+  <tr>
+    <td>Week 11</td>
+    <td>We hope to build a basic responsive website by week 11. We will spend 1 hour each on perfecting the things that need improvement.
+
+</td>
+    
+  </tr>
+  <tr>
+    <td>Week 12</td>
+    <td>Alex will start work on the content of our website. Madiha and Samantha will start adding video tutorials, and william will begin testing our website features.
+
+</td>
+    
+  </tr>
+</table>
+<style>
+table, th, td {
+  border:1px solid Blue;
+  border-collapse: collapse;
+}
+</style>
+
+<body>
+
+
+
+<table style="width:100%">
+  <tr>
+    <th>Week 13</th>
+    <th>By the end of week 13 we hope to have most of the content added to our website. 
+
+</th> 
+    
+  </tr>
+  <tr>
+    <td>Week 14</td>
+    <td>Everyone will work together, test our features, correct our mistakes, check the security of our website, make final adjustments to design and check the website across desktop and mobile screens.
+
+</td>
+    
+  </tr>
+  <tr>
+    <td>Week 15</td>
+    <td>In the last two weeks we will complete our Website and launch it.
+
+</td>
+    
+  </tr>
+  <tr>
+    <td>Week 16</td>
+    <td>In the last two weeks we will complete our website and launch it.
+
+</td>
+   
+  </tr>
+</table>
 
 
 
