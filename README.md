@@ -179,8 +179,8 @@ a {
  
  <p><h2><b>ROLES</b></h2></p>
  
- <p><b>Alexander (Alex) Ball:</b> Head of Sales and App Developer</p>
-<p><b>Alex is the head of Sales as well as being one of our App Developers, he is very passionate about Officiating and is the source of a lot of our information on what will be most beneficial to Officials and Associations.</p>
+<p><b>Alexander (Alex) Ball:</b> Head of Sales and App Developer</p>
+ <p><b>Alex</b> is the head of Sales as well as being one of our App Developers, he is very passionate about Officiating and is the source of a lot of our information on what will be most beneficial to Officials and Associations.</p>
 
  <p><b>Madiha Sabahat:</b>Head of Research and App Designer</p>
  <p><b>Madiha</b> is our Head of Research as well as one of our App Designers. She has been gaining extra information on what officials need from a platform as well as helping us to find the tools and skills we need to develop the platform.</p>
