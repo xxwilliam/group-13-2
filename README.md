@@ -440,69 +440,69 @@ table, th, td {
   <tr>
     <td><b>Alex </b></td>
     <td><b> Website Draft-</b> To work on the draft website and all elements.</td>
-    </tr>
-    <tr>
+   </tr>
+   <tr>
     <td><b> Alex</b></td>
     <td><b> Design Elements-></b><b>Sam </b> send <b>Alex</b> to identify what platforms will hold all the different items on our website</td>
-    </tr>
-    <tr>
+   </tr>
+   <tr>
     <td><b>Sam</b></td>
-      <td><p>To collate and create our weekly reflection.</p>
+    <td><p>To collate and create our weekly reflection.</p>
         <p>Create a breakdown of the matrix in a to do list</p></td>
-    </tr>
-    <tr>
+   </tr>
+   <tr>
     <td><b>Madiha</b></td>
-      <td><p>Researching skills, software and tools needed for ther project,</p>
+    <td><p>Researching skills, software and tools needed for ther project,</p>
         <p>Research AWS.</p></td>
-    </tr>
-    <tr>
+   </tr>
+   <tr>
     <td><b>Troy</b></td>
     <td>To work on GitHub,</td>
-       <table id="customers">
+     <table id="customers">
   <tr>
     <th>Week 4</th>
     <th>Tasks</th>
     
   </tr>
-    <tr>
-      <td><b>Madiha</b></td>
-      <td>Tools and Technologies needed for our project.Skills required for key positions and jobs</td>
-    </tr>
-     <tr>
-       <td><b>Sam</b></td>
-       <td>Commenced plan and progress and unpacks all elements of the initial stages of website</td>
-         </tr>
-         <tr>
-           <td><b>troy</b></td>
-           <td>Created GitHub, Testing and Risk.</td>
-         </tr>
-         <tr>
-           <td><b>Alex</b></td>
-           <td>Career plan, Tools, Topic, Movivation, Aims.</td>
-         </tr>
-         <table id="customers">
+  <tr>
+    <td><b>Madiha</b></td>
+    <td>Tools and Technologies needed for our project.Skills required for key positions and jobs</td>
+  </tr>
+  <tr>
+    <td><b>Sam</b></td>
+    <td>Commenced plan and progress and unpacks all elements of the initial stages of website</td>
+  </tr>
+  <tr>
+    <td><b>troy</b></td>
+    <td>Created GitHub, Testing and Risk.</td>
+  </tr>
+  <tr>
+    <td><b>Alex</b></td>
+    <td>Career plan, Tools, Topic, Movivation, Aims.</td>
+  </tr>
+      <table id="customers">
   <tr>
     <th>Week 5</th>
     <th>Tasks</th>
     
-         </tr>
-         <tr>  
-           <td><b>Alex</b></td>
-           <td>Plans and progresses, Roles, Scope and limits.</td>
-           </tr>
-           <tr>
-          <td><b>Sam</b></td>
-          <td><p>Support time-management, manage topics needing attention and individual group reflection.</p>
+  </tr>
+  <tr>  
+    <td><b>Alex</b></td>
+    <td>Plans and progresses, Roles, Scope and limits.</td>
+  </tr>
+  <tr>
+    <td><b>Sam</b></td>
+    <td><p>Support time-management, manage topics needing attention and individual group reflection.</p>
            <p>Review project for grammer and design layout</p></td>
-           </tr>
-           <tr>
-             <td><b>Madiha</b></td>
-             <td>Individual group reflection, group reflection, skills and jobs.</td>
-           </tr>
-           <tr>
-             <td><b>Troy</b></td>
-             <td>Transfer all project content to github</td>
-           </tr>
+  </tr>
+  <tr>
+    <td><b>Madiha</b></td>
+    <td>Individual group reflection, group reflection, skills and jobs.</td>
+  </tr>
+  <tr>
+    <td><b>Troy</b></td>
+    <td>Transfer all project content to github</td>
+  </tr>
    
     
  
@@ -631,6 +631,7 @@ Experience Required:
 
 <p>The home page is the biggest part of the platform that we would have completed as a part of Assignment 3. The main feature of the home page would be the calendar/roster function. We would have a calendar view on the home page that would show the officials what upcoming games they have as well as if they have any allocated games that they need to accept/decline. As well as the calendar we would have a notification function that would have alerts for any feedback that had been given to them or if they had any required tests/accreditation due. We will also set up a menu function from this home page to allow the user to move through the platform to its other resources. This home page will be able to show everything of the most importance to the official with a simple glance. We believe that we would be able to get close to a usable product with the skills that we currently already possess and with some continued learning and persistence we will be able to create a professional looking product.</p>
 
+     
  <p><b><h2>Links from Assignment 2.</h2></b></p>
  
 <head>
