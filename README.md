@@ -82,7 +82,7 @@ and make it my permanent career</p>.
   
 <p><b><h2>Group Career Plans:</h2></b></p>
 
- <p>Career Plans in our group range from entry level jobs to entrepreneurship.<b> Alexander</b> and<b> Madiha</b> want to continue their studies as well as start an IT career from beginner level jobs. <b>Samantha</b> also wants to continue her studies through RMIT and later transit towards web development. After attaining experience and knowledge needed,<b> William</b> wants to continue his studies and has enrolled in Introduction to Programming and to work towards the project he is passionate about “ Developing an app to help domestic violence victims”.</p>
+ <p>Career Plans in our group range from entry-level jobs to entrepreneurship.<b> Alexander</b> and<b> Madiha</b> want to continue their studies as well as start an IT career from beginner level jobs. <b>Samantha</b> also wants to continue her studies through RMIT and later transit towards web development. After attaining experience and knowledge needed,<b> William</b> wants to continue his studies and has enrolled in Introduction to Programming and to work towards the project he is passionate about “ Developing an app to help domestic violence victims”.</p>
 
 <p>Overall in our group all of us are on the starting point of our Careers. Most of us have a clear picture of our goals and want to work towards it steadily. <b>Alexander's</b> goal is to eventually do project management and run bigger projects after achieving skills and experience needed.<b>Madiha</b> wants to pursue a career in Cyber Forensics as well as get certifications and specializations in different IT aspects. <b>Samantha</b> wants to pursue her studies and later wants to start entrepreneurship as well as work remotely. <b>William</b> wants to pursue a career in app developing and work on his personal project. Everyone is passionate about their future plans and working hard towards their respective goals. It will take time as we are just starting but as they say taking the first step is all that matters.</p> 
 
@@ -140,12 +140,12 @@ a {
  
  
 <p><b><h2>Topic</h2></b></p>
-
- <p> Our project was based on refereeing and officiating Basketball matches, but we have decided to expand to (eventually) all ball sports, i.e soccer, cricket, Afl, rugby league, and more. This is a personal development system, as most information is word of mouth or a course you can do that just covers the basics. The web site/app can be used for such things as official roasters, review from coaches, game stats, accreditation tests.</p>
-
- <p>Also Our project will help officials and referees with on hand rules and by-laws of the games. With a section on game schedules, video highlights of games, leaderboard of teams, and more when fully developed. But more so it will be a learning tool for new and a refresher for referees and officials to get up to date rules and by-laws. All this can be accessed on either laptop or mobile device.</p>
-
- <p>We think this will be an asset to any sporting club or organization, with drop down menus with easy access to what they're looking for. It will be done in a professional manner with clear side menus</p>
+ 
+<p>The Topic of this Project is to develop a platform that all sports officials can use to make their jobs easier. Alex is heavily involved in Refereeing Basketball and as such saw that most of the education and development was done via word of mouth and through a smaller amount of in person sessions. This leaves a big space for an interactive online learning platform. We decided to couple this with a rostering system as well as making room for areas such as feedback and reporting to be involved in the platform so that everything that officials will need is all in the one place.</p>
+ 
+<p>Although this project started as a platform just aimed at Basketball Referees, it will be available for Officials form all sports, whether that be AFL, NRL, Rugby, Cricket or any other sport where the officials would require additional learning. Although this platform is aimed at the officials of the games, this will be a great platform for the associations or governing bodies of the sports to pass information on their officials and also to ensure that they are on the same page. We will be implementing a testing and accreditation system that will be customizable so that the association can be confident in their official’s ability as well as know where there is room for improvement.</p>
+ 
+<p>This platform will be an asset to both officials and their associations, and we believe that it will fill a niche in the current official education system.>/p>
 
 
 <p><b><h2>Motivation</h2></b></p>
@@ -156,8 +156,6 @@ a {
 
 
  <p><b><h2>Landscape</h2></b></p>
-
-
 
 
  <P>There are a few similar products/systems available, but not in Australia. There’s one in the UK that does all kinds of sports, which is what the overall plan may be. We would like to include research with numerous testing methods for our overall product to be user-friendly and hopefully reflect this with the current products/systems on the market.</p>
@@ -181,30 +179,32 @@ a {
  
  <p><h2><b>ROLES</b></h2></p>
  
- <p><h2><b>The Non-Compatibles Roles</b></h2></p>
- 
- <p><b>Alex Ball: Lead Project Developer.</b></p>
- <p>As the project is in line with ,b>Alex's</b> Basketball passion, both refereering and Teaching others on how to referee Basketball matches.</p>
- 
- <p><b>Samantha Kurilic: Project Organiser.</b></p>
- <p>Making sure everyone has a task and helping out in anyway. Alos making sure everyone puts their work in the right place so it can be checked off when completed></p>
- 
- <p><b>Madiha Sabahat: Research Developer.</b></p>
- <p>Researching the tools and technologies needed for the Project. And Researching on how to make Our project accessed by either a website on a computer, or mobile device.</p>
- 
- <p><b>William Hansen: GitHub Organiser and stressor.</b></p>
- Organizing GitHub and working with the team on how to present it on GitHub and how it will look on the website.</p>
+ <p><b>Alexander (Alex) Ball:</b> Head of Sales and App Developer</p>
+<p><b>Alex is the head of Sales as well as being one of our App Developers, he is very passionate about Officiating and is the source of a lot of our information on what will be most beneficial to Officials and Associations.</p>
+
+ <p><b>Madiha Sabahat: </b>Head of Research and App Designer</p>
+ <p><b>Madiha</b> is our Head of Research as well as one of our App Designers. She has been gaining extra information on what officials need from a platform as well as helping us to find the tools and skills we need to develop the platform.</p>
+
+ <p><b>Samantha Kurilic:</b> Head of Visual Design and Web Design.</p>
+ <p><b>Samantha </b>is our Head of Visual Design. She has put a lot of effort into making our product look great as well as making the UI user friendly and easy to navigate.</p>
+
+ <p><b>William (Troy) Hansen:</b> Head Back End Developer.</p>
+ <p><b>Troy</b> is our Head Developer. He has Championed our Github repository as well assisting with the development of the platform.</p>
 
 
  <p><h2><b>Scope and limits</b></h2></p>
  
- 
- 
- 
+<p>The overall scope of this project is to develop a Platform for the Education of Officials and the Scheduling of their games, as well as having other features such as feedback tools, reporting and tests. However due to the short length of development time that we currently have, we will have to prioritise certain aspects to begin with.</p>
+
+<p>The first step will be to develop the overall website design, this will allow us to plan out where everything will eventually go within the platform. Next will be to set up the scheduling system which is one of the fundamental aspects of the platform. Without this aspect we wouldn't be able to keep officials coming back on a regular basis.</p>
+
+<p>Due to the time constraints we won't be able to develop much further at this stage, the education system will take a lot of work collaborating with outside sources such as potential client associations and their Referee Coaches. As we progress into the testing phase on this project we will have the basis of the website to show to potential clients/testers that will help us to get them on board as well as showing them what the end product will look like. Overall this has the potential to be a massive project however with our current time constraints we will only have the time to scratch the surface of what we could potentially achieve.</p>
+
  
  
  
  <p><h2><b>Tools And Technologies</b></h2></p>
+ 
  <p>After receving feedback from our tutor for Assignment 2, we have decided to build a mobile-first responsive website. We are creating our website using both server-side and client-side languages, HTML, CSS, PHP, ASP, and Javascript. There are a lot of tools available to design our website but as we are just beginning for editing, layout and design we are also using jQuery, Emmet and Flexbox.</p>
  
  <p>We are hosting on AWS, all of us signed up for AWS accounts. We are using EC2. Amazon S3, for domain Amazon rouye 53, SSL certificate for security and Amazon CloudFront.As we are just starting and our expertise is very limited, we don't need any special hardware at the momentto build Our project. All of us are working remotely through our standard laptops to build our website.</p>
